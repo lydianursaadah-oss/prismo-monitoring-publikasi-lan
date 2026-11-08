@@ -175,7 +175,7 @@ function handleUsernameInput(val) {
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.2.0/dist/chartjs-plugin-datalabels.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
-  <script src="/legacy/inisiatif_data.js"></script>
+  <script src="/legacy/inisiatif_data.js?v=20261108_851_v2"></script>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet" />
   <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" rel="stylesheet" />
   <!-- Tailwind CSS Utilities (Preflight disabled agar tidak merusak styling CSS kustom) -->
@@ -5803,15 +5803,27 @@ function resolveInisiatifYear(item) {
 }
 
 function getRawInisiatifRows() {
-  if (Array.isArray(inisiatifAkDosenRows) && inisiatifAkDosenRows.length > 0) {
+  const initial = (typeof INITIAL_INISIATIF_AK_DOSEN !== 'undefined' && Array.isArray(INITIAL_INISIATIF_AK_DOSEN) && INITIAL_INISIATIF_AK_DOSEN.length > 0)
+    ? INITIAL_INISIATIF_AK_DOSEN
+    : ((typeof window !== 'undefined' && Array.isArray(window.INITIAL_INISIATIF_AK_DOSEN) && window.INITIAL_INISIATIF_AK_DOSEN.length > 0)
+      ? window.INITIAL_INISIATIF_AK_DOSEN
+      : []);
+
+  if (Array.isArray(inisiatifAkDosenRows) && inisiatifAkDosenRows.length >= (initial.length || 100)) {
     return inisiatifAkDosenRows;
   }
   const local = getStoredInisiatifLocal();
-  if (Array.isArray(local) && local.length > 0) {
+  if (Array.isArray(local) && local.length >= (initial.length || 100)) {
     return local;
   }
-  if (typeof INITIAL_INISIATIF_AK_DOSEN !== 'undefined' && Array.isArray(INITIAL_INISIATIF_AK_DOSEN)) {
-    return INITIAL_INISIATIF_AK_DOSEN;
+  if (initial && initial.length > 0) {
+    return initial;
+  }
+  if (Array.isArray(inisiatifAkDosenRows) && inisiatifAkDosenRows.length > 0) {
+    return inisiatifAkDosenRows;
+  }
+  if (Array.isArray(local) && local.length > 0) {
+    return local;
   }
   return [];
 }
@@ -5975,7 +5987,7 @@ async function syncInisiatifForDashboard(force = false) {
       const res = await fetch('/api/inisiatif-ak-dosen');
       if (!res.ok) return null;
       const data = await res.json();
-      if (Array.isArray(data) && data.length > 0) {
+      if (Array.isArray(data) && data.length >= 100) {
         inisiatifAkDosenRows = data;
         _inisiatifSyncedFromApi = true;
         if (typeof saveStoredInisiatifLocal === 'function') saveStoredInisiatifLocal(data);
@@ -7662,10 +7674,15 @@ async function renderInisiatifAkDosenRows() {
   if (!tbody) return;
 
   // 1. Tampilkan instan dari memori / localStorage / INITIAL_INISIATIF_AK_DOSEN tanpa menunggu jaringan
-  if (!Array.isArray(inisiatifAkDosenRows) || inisiatifAkDosenRows.length === 0) {
-    const local = getStoredInisiatifLocal();
-    const initial = typeof INITIAL_INISIATIF_AK_DOSEN !== 'undefined' ? INITIAL_INISIATIF_AK_DOSEN : [];
-    inisiatifAkDosenRows = (Array.isArray(local) && local.length > 0) ? local : (Array.isArray(initial) ? [...initial] : []);
+  const initial = (typeof INITIAL_INISIATIF_AK_DOSEN !== 'undefined' && Array.isArray(INITIAL_INISIATIF_AK_DOSEN) && INITIAL_INISIATIF_AK_DOSEN.length > 0)
+    ? INITIAL_INISIATIF_AK_DOSEN
+    : ((typeof window !== 'undefined' && Array.isArray(window.INITIAL_INISIATIF_AK_DOSEN)) ? window.INITIAL_INISIATIF_AK_DOSEN : []);
+  const local = getStoredInisiatifLocal();
+
+  if (!Array.isArray(inisiatifAkDosenRows) || inisiatifAkDosenRows.length < (initial.length || 100)) {
+    inisiatifAkDosenRows = (Array.isArray(initial) && initial.length > 0)
+      ? [...initial]
+      : ((Array.isArray(local) && local.length > 0) ? local : []);
   }
 
   inisiatifCurrentPage = 1;
@@ -8808,7 +8825,7 @@ if(hd) hd.textContent = new Date().toLocaleDateString('id-ID',{weekday:'long',ye
 // Version check ensures stale 56-record caches are cleared
 (function(){
   try {
-    const DATA_VERSION = '2026.11.08.v54_inisiatif_851_2020_2026';
+    const DATA_VERSION = '2026.11.08.v55_inisiatif_always_active';
     const currentVer = localStorage.getItem('lan_data_version');
     if (currentVer !== DATA_VERSION) {
       localStorage.removeItem('lan_pub_data');

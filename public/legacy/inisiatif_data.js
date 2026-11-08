@@ -1,4 +1,6 @@
-const INITIAL_INISIATIF_AK_DOSEN = [
+var INITIAL_INISIATIF_AK_DOSEN = (typeof window !== 'undefined' ? (window.INITIAL_INISIATIF_AK_DOSEN = window.INITIAL_INISIATIF_AK_DOSEN || []) : []);
+INITIAL_INISIATIF_AK_DOSEN = (typeof window !== 'undefined' ? window.INITIAL_INISIATIF_AK_DOSEN : INITIAL_INISIATIF_AK_DOSEN);
+var INITIAL_INISIATIF_DATA = [
   {
     "id": 1,
     "no": 1,
@@ -19573,3 +19575,7 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "sitasi": 9
   }
 ];
+INITIAL_INISIATIF_AK_DOSEN = INITIAL_INISIATIF_DATA;
+if (typeof window !== 'undefined') {
+  window.INITIAL_INISIATIF_AK_DOSEN = INITIAL_INISIATIF_DATA;
+}
