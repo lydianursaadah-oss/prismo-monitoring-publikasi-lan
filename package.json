@@ -1,0 +1,23 @@
+{
+  "name": "dashboard-monitoring-survei-lan",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "preview": "nuxt preview",
+    "db:pull": "drizzle-kit pull",
+    "db:generate": "drizzle-kit generate",
+    "db:migrate": "drizzle-kit migrate",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "drizzle-orm": "^0.45.4",
+    "nuxt": "^4.1.3",
+    "postgres": "^4.0.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^6.14.0",
+    "drizzle-kit": "^0.31.11"
+  }
+}

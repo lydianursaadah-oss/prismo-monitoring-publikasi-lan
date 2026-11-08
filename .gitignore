@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+.env
+.env.local
+.nuxt/
+.output/
+.vercel/
+dist/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+# Logs
+*.log
+.nuxt-dev.log
+scratch/
