@@ -4772,7 +4772,7 @@ const RAW = [
     "ytLAN": "",
     "ytUnit": "",
     "status": "Selesai",
-    "ket": "Materi sudah dipaparkan di depan DFT Australia. Sudah coba dikirim ke jurnal tapi belum diterima",
+    "ket": "Selesai. Materi sudah dipaparkan di depan DFT Australia. Sudah coba dikirim ke jurnal tapi belum diterima",
     "tahapan": "Publikasi / Selesai"
   },
   {
@@ -5744,8 +5744,9 @@ function resolveChannelUrl(field, cellVal, item) {
 }
 
 function getStatus(d){
+  const s = (d.status||"").toLowerCase().trim();
   const k = (d.ket||"").toLowerCase().trim();
-  if(k.startsWith("selesai")) return "selesai";
+  if(s === "selesai" || k.startsWith("selesai") || (k.includes("selesai") && !k.includes("belum"))) return "selesai";
   if(k.includes("belum selesai") || k.startsWith("belum")) return "belum";
   // 2025 records with published channel links count as selesai
   if(d.tahun === "2025" && getChannelCount(d) > 0 && !k.includes("belum")) return "selesai";
@@ -7683,8 +7684,8 @@ async function renderInisiatifAkDosenRows() {
 /* ── Filter multi-select (Tahun, Jenis, Cluster) Publikasi AK/Dosen ── */
 const INISIATIF_MULTI_FILTERS = {
   year: {
-    label: 'Tahun', allLabel: 'Semua Tahun (2025-2026)', icon: 'fa-calendar',
-    options: ['2025', '2026']
+    label: 'Tahun', allLabel: 'Semua Tahun (2020-2026)', icon: 'fa-calendar',
+    options: ['2020', '2021', '2022', '2023', '2024', '2025', '2026']
   },
   jenis: {
     label: 'Jenis', allLabel: 'Semua Jenis', icon: 'fa-tags',
@@ -7939,21 +7940,19 @@ function filterInisiatifTable(page = 1) {
 
   inisiatifFilteredRows = inisiatifAkDosenRows.filter(item => {
     const yr = resolveInisiatifYear(item);
-    if (yr !== '2025' && yr !== '2026') return false;
     if (selectedUnit && !String(item.unit || item.sourceSheet || '').toUpperCase().includes(selectedUnit.toUpperCase())) return false;
     // Logika OR di dalam satu kategori, AND antarkategori
     if (yearSet && !yearSet.has(yr)) return false;
     if (jenisSet && !getInisiatifJenisTokens(item).some(token => jenisSet.has(token))) return false;
     if (clusterSet && !getInisiatifClusterTokens(item).some(token => clusterSet.has(token))) return false;
     if (searchVal) {
-      const yr = resolveInisiatifYear(item);
       const text = `${item.judul || ''} ${item.jenis || ''} ${yr !== '—' ? yr : ''} ${item.cluster1 || ''} ${item.cluster2 || ''} ${item.catatan || ''} ${item.unit || ''}`.toLowerCase();
       if (!text.includes(searchVal)) return false;
     }
     return true;
   });
 
-  if (count) count.textContent = '';
+  if (count) count.textContent = `${inisiatifFilteredRows.length} publikasi`;
 
   if (!inisiatifFilteredRows.length) {
     tbody.innerHTML = '';
@@ -8809,7 +8808,7 @@ if(hd) hd.textContent = new Date().toLocaleDateString('id-ID',{weekday:'long',ye
 // Version check ensures stale 56-record caches are cleared
 (function(){
   try {
-    const DATA_VERSION = '2026.11.08.v53_dedup_nov_2026';
+    const DATA_VERSION = '2026.11.08.v54_inisiatif_851_2020_2026';
     const currentVer = localStorage.getItem('lan_data_version');
     if (currentVer !== DATA_VERSION) {
       localStorage.removeItem('lan_pub_data');

@@ -48,7 +48,7 @@ INSERT INTO publikasi (no, unit, judul, jenis, jadwal, tahun, cluster, jurnal, m
 (11, 'DAPKK', 'Survei Produktivitas Sektor Publik Pertanian dengan Pendekatan APO (Tanaman Padi dan Jagung)', '', '2025', '2025', 'Prioritas Presiden', '', '', 'Link', '', '', '', '', '', ''),
 (12, 'SKMP', 'Survei Strategi Peningkatan Tata Kelola BUMDes berdasarkan potensi dan karakteristik wilayah', '', '2025', '2025', 'Prioritas Presiden', '', '', 'Link', 'Link', '', 'Link', '', 'Link', ''),
 (13, 'SKMK', 'Survei Strategi Peningkatan Kinerja ASN di Era Efisiensi Anggaran', '', '2025', '2025', 'Tata Kelola & Manajemen ASN', '', '', 'Link', 'Link 1|Link 2|Link 3', '', '', '', '', ''),
-(14, 'STIA JKT', 'Flexible Working Arrangement untuk Pegawai Perempuan ASN dan Swasta', 'Jurnal/Penelitian Kolaborasi', '2025', '2025', 'Tata Kelola & Manajemen ASN', '', '', '', '', '', '', '', '', 'Materi sudah dipaparkan di depan DFT Australia. Sudah coba dikirim ke jurnal tapi belum diterima'),
+(14, 'STIA JKT', 'Flexible Working Arrangement untuk Pegawai Perempuan ASN dan Swasta', 'Jurnal/Penelitian Kolaborasi', '2025', '2025', 'Tata Kelola & Manajemen ASN', '', '', '', '', '', '', '', '', 'Selesai. Materi sudah dipaparkan di depan DFT Australia. Sudah coba dikirim ke jurnal tapi belum diterima'),
 (15, 'DAPKK', 'Ekosistem Inovasi', 'Buku', '2025', '2025', 'Digitalisasi', '', '', 'Link', '', '', '', '', '', ''),
 (16, 'SKTAN', 'Survei persepsi alumni terkait dampak pelatihan kepemimpinan terhadap manajemen karir', 'Jurnal/Penelitian', 'Januari (1)', '2026', 'Tata Kelola & Manajemen ASN', '', '', '', 'Link', '', '', 'link', 'link', 'Selesai
 dengan publikasi di Prosiding dan youtube'),

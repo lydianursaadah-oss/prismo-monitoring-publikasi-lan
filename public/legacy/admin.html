@@ -1121,7 +1121,7 @@ const DEFAULT_DATA = [
     "ytLAN": "",
     "ytUnit": "",
     "status": "Selesai",
-    "ket": "Materi sudah dipaparkan di depan DFT Australia. Sudah coba dikirim ke jurnal tapi belum diterima",
+    "ket": "Selesai. Materi sudah dipaparkan di depan DFT Australia. Sudah coba dikirim ke jurnal tapi belum diterima",
     "tahapan": "Publikasi / Selesai"
   },
   {
@@ -2161,8 +2161,9 @@ function saveDB(){
 function hasLink(v){ return v && v.trim()!=='' && v.trim()!=='-'; }
 function chCount(d){ return ['jurnal','media','webLAN','webUnit','igLAN','igUnit','ytLAN','ytUnit'].filter(f=>hasLink(d[f])).length; }
 function getStatus(d){
+  const s=(d.status||'').toLowerCase().trim();
   const k=(d.ket||'').toLowerCase().trim();
-  if(k.startsWith('selesai')) return 'selesai';
+  if(s==='selesai'||k.startsWith('selesai')||(k.includes('selesai')&&!k.includes('belum'))) return 'selesai';
   if(k.includes('belum selesai')||k.startsWith('belum')) return 'belum';
   if(d.tahun==='2025' && chCount(d)>0 && !k.includes('belum')) return 'selesai';
   return 'belum';

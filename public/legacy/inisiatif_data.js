@@ -19,7 +19,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 2,
@@ -41,7 +42,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 3,
@@ -63,7 +65,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 4,
@@ -85,7 +88,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 5,
@@ -107,7 +111,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 6,
@@ -129,7 +134,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 7,
@@ -151,7 +157,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 8,
@@ -173,7 +180,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 9,
@@ -195,7 +203,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 10,
@@ -217,7 +226,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 11,
@@ -239,7 +249,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 12,
@@ -261,7 +272,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 13,
@@ -283,7 +295,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 14,
@@ -305,7 +318,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 15,
@@ -327,7 +341,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 16,
@@ -341,7 +356,7 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "cluster1": "Prioritas Presiden",
     "cluster2": "",
     "jurnal": "",
-    "mediaOnline": "1. https://aceh.tribunnews.com/nanggroe/988439/aceh-harus-siapkan-transisi-fiskal-lan-ri-diskusikan-2-dekade-dana-otsus\n2. https://rri.co.id/daerah/1859833/refleksi-dua-dekade-dana-otonomi-khusus-aceh",
+    "mediaOnline": "1. https://aceh.tribunnews.com/nanggroe/988439/aceh-harus-siapkan-transisi-fiskal-lan-ri-diskusikan-2-dekade-dana-otsus\r\n2. https://rri.co.id/daerah/1859833/refleksi-dua-dekade-dana-otonomi-khusus-aceh",
     "websiteLan": "",
     "websiteUnit": "Link 1",
     "instagramLan": "",
@@ -349,7 +364,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 17,
@@ -371,7 +387,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 18,
@@ -393,7 +410,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 19,
@@ -415,7 +433,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 20,
@@ -437,7 +456,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 21,
@@ -451,7 +471,7 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "cluster1": "Tata Kelola & Manajemen ASN",
     "cluster2": "",
     "jurnal": "",
-    "mediaOnline": "https://mediaindonesia.com/humaniora/827830/asn-jabatan-fungsional-ahli-muda-beban-kerja-tinggi-tapi-minim-reward\nhttps://publikupdate.com/temuan-survei-nasional-dari-lan-ri-jadi-basis-kebijakan-untuk-dongkrak-kompetensi-dan-kinerja-asn/",
+    "mediaOnline": "https://mediaindonesia.com/humaniora/827830/asn-jabatan-fungsional-ahli-muda-beban-kerja-tinggi-tapi-minim-reward\r\nhttps://publikupdate.com/temuan-survei-nasional-dari-lan-ri-jadi-basis-kebijakan-untuk-dongkrak-kompetensi-dan-kinerja-asn/",
     "websiteLan": "",
     "websiteUnit": "Link 1",
     "instagramLan": "",
@@ -459,7 +479,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 22,
@@ -473,7 +494,7 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "cluster1": "Tata Kelola & Manajemen ASN",
     "cluster2": "",
     "jurnal": "",
-    "mediaOnline": "https://aceh.tribunnews.com/nanggroe/1003333/survei-nasional-lan-ri-ungkap-tantangan-layanan-publik-era-efisiensi\nhttps://publikupdate.com/survei-nasional-lan-ri-ungkap-tantangan-dan-peluang-optimalisasi-layanan-publik-era-efesiensi-anggaran/",
+    "mediaOnline": "https://aceh.tribunnews.com/nanggroe/1003333/survei-nasional-lan-ri-ungkap-tantangan-layanan-publik-era-efisiensi\r\nhttps://publikupdate.com/survei-nasional-lan-ri-ungkap-tantangan-dan-peluang-optimalisasi-layanan-publik-era-efesiensi-anggaran/",
     "websiteLan": "",
     "websiteUnit": "Link 1",
     "instagramLan": "",
@@ -481,7 +502,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 23,
@@ -503,7 +525,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 24,
@@ -525,7 +548,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 25,
@@ -547,7 +571,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 26,
@@ -569,7 +594,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 27,
@@ -591,7 +617,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 28,
@@ -613,7 +640,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 29,
@@ -635,7 +663,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 30,
@@ -657,7 +686,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 31,
@@ -679,7 +709,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 32,
@@ -701,7 +732,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 33,
@@ -723,7 +755,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 34,
@@ -745,7 +778,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 35,
@@ -767,7 +801,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 36,
@@ -789,7 +824,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 37,
@@ -811,7 +847,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 38,
@@ -833,7 +870,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 39,
@@ -855,7 +893,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 40,
@@ -877,7 +916,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 41,
@@ -899,7 +939,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 42,
@@ -921,7 +962,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "Link",
     "youtubeUnit": "Link",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 43,
@@ -943,7 +985,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 44,
@@ -965,7 +1008,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 45,
@@ -987,7 +1031,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 46,
@@ -1009,7 +1054,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 47,
@@ -1031,7 +1077,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 48,
@@ -1053,7 +1100,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 49,
@@ -1075,7 +1123,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 50,
@@ -1097,7 +1146,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 51,
@@ -1119,7 +1169,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 52,
@@ -1141,7 +1192,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 53,
@@ -1163,7 +1215,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 54,
@@ -1185,7 +1238,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 55,
@@ -1207,7 +1261,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 56,
@@ -1229,7 +1284,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 57,
@@ -1251,7 +1307,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 58,
@@ -1273,7 +1330,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 59,
@@ -1295,7 +1353,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 60,
@@ -1317,7 +1376,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 61,
@@ -1339,7 +1399,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 62,
@@ -1361,7 +1422,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 63,
@@ -1383,7 +1445,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 64,
@@ -1405,7 +1468,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 65,
@@ -1427,7 +1491,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 66,
@@ -1449,7 +1514,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 67,
@@ -1471,7 +1537,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 68,
@@ -1493,7 +1560,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 69,
@@ -1515,7 +1583,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "Link 1",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 70,
@@ -1537,7 +1606,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 71,
@@ -1559,7 +1629,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 72,
@@ -1581,7 +1652,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 73,
@@ -1603,7 +1675,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 74,
@@ -1625,7 +1698,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 75,
@@ -1647,7 +1721,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 76,
@@ -1669,7 +1744,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 77,
@@ -1691,7 +1767,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 78,
@@ -1713,7 +1790,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 79,
@@ -1735,7 +1813,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 80,
@@ -1757,7 +1836,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 81,
@@ -1779,7 +1859,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 82,
@@ -1801,7 +1882,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 83,
@@ -1823,7 +1905,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 84,
@@ -1845,7 +1928,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "Link 1",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 85,
@@ -1867,7 +1951,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 86,
@@ -1889,7 +1974,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 87,
@@ -1911,7 +1997,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 88,
@@ -1933,7 +2020,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 89,
@@ -1955,7 +2043,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 90,
@@ -1977,7 +2066,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 91,
@@ -1999,7 +2089,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 92,
@@ -2021,7 +2112,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 93,
@@ -2043,7 +2135,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "Link 1",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 94,
@@ -2065,7 +2158,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 95,
@@ -2087,7 +2181,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 96,
@@ -2109,7 +2204,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 97,
@@ -2131,7 +2227,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 98,
@@ -2153,7 +2250,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 99,
@@ -2175,7 +2273,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 100,
@@ -2197,7 +2296,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 101,
@@ -2219,7 +2319,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "Link 3",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 102,
@@ -2241,7 +2342,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 103,
@@ -2263,7 +2365,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 104,
@@ -2285,7 +2388,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 105,
@@ -2307,7 +2411,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 106,
@@ -2329,7 +2434,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 107,
@@ -2351,7 +2457,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 108,
@@ -2373,7 +2480,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 109,
@@ -2395,7 +2503,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 110,
@@ -2417,7 +2526,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 111,
@@ -2439,7 +2549,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 112,
@@ -2461,7 +2572,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 113,
@@ -2483,7 +2595,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 114,
@@ -2505,7 +2618,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 115,
@@ -2527,7 +2641,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 116,
@@ -2549,7 +2664,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 117,
@@ -2571,7 +2687,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 118,
@@ -2593,7 +2710,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 119,
@@ -2615,7 +2733,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 120,
@@ -2637,7 +2756,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 121,
@@ -2659,7 +2779,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 122,
@@ -2681,7 +2802,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 123,
@@ -2703,7 +2825,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "https://youtu.be/KZWeXlXTj18?si=aLZsm2qx5BUJOI3T",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 124,
@@ -2725,7 +2848,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "https://youtu.be/J_NgDWb9bbw?si=EhbH55cyvK2y1WI0",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 125,
@@ -2747,7 +2871,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "https://youtu.be/J_NgDWb9bbw?si=EhbH55cyvK2y1WI0",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 126,
@@ -2769,7 +2894,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 127,
@@ -2791,7 +2917,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 128,
@@ -2813,7 +2940,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 129,
@@ -2835,7 +2963,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 130,
@@ -2857,7 +2986,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 131,
@@ -2879,7 +3009,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 132,
@@ -2901,7 +3032,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 133,
@@ -2923,7 +3055,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 134,
@@ -2945,7 +3078,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 135,
@@ -2967,7 +3101,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 136,
@@ -2989,7 +3124,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 137,
@@ -3011,7 +3147,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 138,
@@ -3033,7 +3170,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 139,
@@ -3055,7 +3193,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 140,
@@ -3077,7 +3216,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 141,
@@ -3099,7 +3239,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 142,
@@ -3121,7 +3262,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 143,
@@ -3143,7 +3285,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 144,
@@ -3165,7 +3308,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 145,
@@ -3187,7 +3331,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 146,
@@ -3209,7 +3354,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 147,
@@ -3231,7 +3377,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 148,
@@ -3253,7 +3400,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 149,
@@ -3275,7 +3423,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 150,
@@ -3297,7 +3446,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 151,
@@ -3319,7 +3469,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "https://www.youtube.com/watch?v=VBzMqhqXKqA&t=2s",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 152,
@@ -3341,7 +3492,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 153,
@@ -3363,7 +3515,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 154,
@@ -3385,7 +3538,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 155,
@@ -3407,7 +3561,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 156,
@@ -3429,7 +3584,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 157,
@@ -3451,7 +3607,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 158,
@@ -3473,7 +3630,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 159,
@@ -3495,7 +3653,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 160,
@@ -3517,7 +3676,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 161,
@@ -3539,7 +3699,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "Link 4",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 162,
@@ -3561,7 +3722,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 163,
@@ -3583,7 +3745,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 164,
@@ -3605,7 +3768,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 165,
@@ -3627,7 +3791,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 166,
@@ -3649,7 +3814,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 167,
@@ -3671,7 +3837,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 168,
@@ -3693,7 +3860,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 169,
@@ -3715,7 +3883,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 170,
@@ -3737,7 +3906,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 171,
@@ -3759,7 +3929,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 172,
@@ -3781,14 +3952,15 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 173,
     "no": 72,
     "unit": "SKMP",
     "sourceSheet": "SKMP",
-    "judul": "Kisruh BPJS Kesehatan Berulang: \nMasalah Data yang Tak Pernah \nTuntas dan Dampaknya Pada\nKelompok Rentan",
+    "judul": "Kisruh BPJS Kesehatan Berulang: \r\nMasalah Data yang Tak Pernah \r\nTuntas dan Dampaknya Pada\r\nKelompok Rentan",
     "jenis": "Artikel",
     "jadwalPublikasi": "",
     "tahun": 2026,
@@ -3803,7 +3975,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 174,
@@ -3825,7 +3998,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 175,
@@ -3847,7 +4021,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 176,
@@ -3869,7 +4044,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 177,
@@ -3891,7 +4067,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 178,
@@ -3913,7 +4090,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 179,
@@ -3935,7 +4113,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 180,
@@ -3957,7 +4136,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 181,
@@ -3979,7 +4159,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 182,
@@ -4001,7 +4182,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 183,
@@ -4023,7 +4205,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 184,
@@ -4045,7 +4228,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 185,
@@ -4067,7 +4251,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 186,
@@ -4089,7 +4274,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 187,
@@ -4111,7 +4297,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 188,
@@ -4133,7 +4320,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 189,
@@ -4155,7 +4343,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 190,
@@ -4177,7 +4366,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 191,
@@ -4199,7 +4389,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 192,
@@ -4221,7 +4412,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 193,
@@ -4243,7 +4435,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 194,
@@ -4265,7 +4458,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 195,
@@ -4287,7 +4481,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 196,
@@ -4309,7 +4504,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 197,
@@ -4331,7 +4527,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 198,
@@ -4353,7 +4550,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 199,
@@ -4375,7 +4573,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 200,
@@ -4397,7 +4596,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 201,
@@ -4419,7 +4619,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 202,
@@ -4441,7 +4642,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 203,
@@ -4463,7 +4665,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 204,
@@ -4485,7 +4688,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 205,
@@ -4507,7 +4711,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 206,
@@ -4529,7 +4734,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 207,
@@ -4551,7 +4757,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 208,
@@ -4573,7 +4780,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 209,
@@ -4595,7 +4803,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 210,
@@ -4617,7 +4826,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 211,
@@ -4639,7 +4849,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 212,
@@ -4661,7 +4872,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 213,
@@ -4683,7 +4895,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 214,
@@ -4705,7 +4918,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 215,
@@ -4727,7 +4941,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 216,
@@ -4749,7 +4964,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 217,
@@ -4771,7 +4987,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 218,
@@ -4793,7 +5010,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 219,
@@ -4815,7 +5033,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 220,
@@ -4837,7 +5056,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 221,
@@ -4859,7 +5079,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 222,
@@ -4881,7 +5102,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 223,
@@ -4903,7 +5125,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 224,
@@ -4925,7 +5148,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 225,
@@ -4947,7 +5171,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 226,
@@ -4969,7 +5194,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 227,
@@ -4991,7 +5217,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 228,
@@ -5013,7 +5240,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 229,
@@ -5035,7 +5263,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 230,
@@ -5057,7 +5286,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 231,
@@ -5079,7 +5309,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 232,
@@ -5101,7 +5332,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 233,
@@ -5123,7 +5355,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 234,
@@ -5145,7 +5378,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 235,
@@ -5167,7 +5401,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 236,
@@ -5189,7 +5424,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 237,
@@ -5211,7 +5447,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 238,
@@ -5233,7 +5470,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 239,
@@ -5255,7 +5493,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 240,
@@ -5277,7 +5516,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 241,
@@ -5299,7 +5539,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 242,
@@ -5321,7 +5562,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 243,
@@ -5343,7 +5585,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 244,
@@ -5365,7 +5608,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 245,
@@ -5387,7 +5631,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 246,
@@ -5409,7 +5654,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 247,
@@ -5431,7 +5677,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 248,
@@ -5453,7 +5700,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 249,
@@ -5475,7 +5723,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 250,
@@ -5497,7 +5746,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 251,
@@ -5519,7 +5769,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 252,
@@ -5541,7 +5792,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 253,
@@ -5563,7 +5815,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 254,
@@ -5585,7 +5838,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 255,
@@ -5607,7 +5861,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 256,
@@ -5629,7 +5884,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 257,
@@ -5651,7 +5907,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 258,
@@ -5673,7 +5930,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 259,
@@ -5695,7 +5953,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 260,
@@ -5717,7 +5976,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 261,
@@ -5739,7 +5999,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 262,
@@ -5761,7 +6022,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 263,
@@ -5783,7 +6045,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 264,
@@ -5805,7 +6068,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 265,
@@ -5827,7 +6091,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 266,
@@ -5849,7 +6114,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 267,
@@ -5871,7 +6137,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 268,
@@ -5893,7 +6160,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 269,
@@ -5915,7 +6183,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 270,
@@ -5937,7 +6206,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 271,
@@ -5959,7 +6229,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 272,
@@ -5981,7 +6252,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 273,
@@ -6003,7 +6275,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 274,
@@ -6025,7 +6298,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 275,
@@ -6047,7 +6321,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 276,
@@ -6069,7 +6344,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 277,
@@ -6091,7 +6367,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 278,
@@ -6113,7 +6390,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 279,
@@ -6135,7 +6413,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 280,
@@ -6157,7 +6436,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 281,
@@ -6179,7 +6459,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 282,
@@ -6201,7 +6482,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 283,
@@ -6223,7 +6505,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 284,
@@ -6245,7 +6528,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 285,
@@ -6267,7 +6551,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 286,
@@ -6289,7 +6574,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 287,
@@ -6311,7 +6597,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 288,
@@ -6333,7 +6620,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 289,
@@ -6355,7 +6643,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 290,
@@ -6377,7 +6666,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 291,
@@ -6399,7 +6689,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 292,
@@ -6421,7 +6712,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 293,
@@ -6443,7 +6735,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 294,
@@ -6465,7 +6758,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 295,
@@ -6487,7 +6781,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 296,
@@ -6509,7 +6804,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 297,
@@ -6531,7 +6827,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 298,
@@ -6553,7 +6850,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 299,
@@ -6575,7 +6873,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 300,
@@ -6597,7 +6896,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 301,
@@ -6619,7 +6919,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 302,
@@ -6641,7 +6942,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 303,
@@ -6663,7 +6965,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 304,
@@ -6685,7 +6988,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 305,
@@ -6707,7 +7011,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 306,
@@ -6729,7 +7034,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 307,
@@ -6751,7 +7057,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 308,
@@ -6773,7 +7080,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 309,
@@ -6795,7 +7103,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 310,
@@ -6817,7 +7126,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 311,
@@ -6839,7 +7149,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 312,
@@ -6861,7 +7172,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 313,
@@ -6883,7 +7195,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 314,
@@ -6905,7 +7218,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 315,
@@ -6927,7 +7241,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 316,
@@ -6949,7 +7264,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 317,
@@ -6971,7 +7287,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 318,
@@ -6993,7 +7310,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 319,
@@ -7015,7 +7333,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 320,
@@ -7037,7 +7356,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 321,
@@ -7059,7 +7379,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 322,
@@ -7081,7 +7402,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 323,
@@ -7103,7 +7425,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 324,
@@ -7125,7 +7448,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 325,
@@ -7147,7 +7471,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 326,
@@ -7169,7 +7494,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 327,
@@ -7191,7 +7517,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 328,
@@ -7213,7 +7540,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 329,
@@ -7235,7 +7563,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 330,
@@ -7257,7 +7586,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 331,
@@ -7279,7 +7609,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 332,
@@ -7301,7 +7632,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 333,
@@ -7323,7 +7655,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 334,
@@ -7345,7 +7678,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 335,
@@ -7367,7 +7701,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 336,
@@ -7389,7 +7724,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 337,
@@ -7411,7 +7747,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 338,
@@ -7433,7 +7770,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 339,
@@ -7455,7 +7793,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 340,
@@ -7477,7 +7816,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 341,
@@ -7499,7 +7839,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 342,
@@ -7521,7 +7862,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 343,
@@ -7543,7 +7885,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 344,
@@ -7565,7 +7908,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 345,
@@ -7587,7 +7931,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 346,
@@ -7609,7 +7954,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 347,
@@ -7631,7 +7977,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 348,
@@ -7653,7 +8000,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 349,
@@ -7675,7 +8023,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 350,
@@ -7697,7 +8046,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 351,
@@ -7719,7 +8069,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 352,
@@ -7741,7 +8092,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 353,
@@ -7763,7 +8115,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 354,
@@ -7785,7 +8138,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 355,
@@ -7807,7 +8161,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 356,
@@ -7829,7 +8184,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 357,
@@ -7851,7 +8207,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 358,
@@ -7873,7 +8230,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 359,
@@ -7895,7 +8253,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 360,
@@ -7917,7 +8276,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 361,
@@ -7939,7 +8299,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 362,
@@ -7961,7 +8322,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 363,
@@ -7983,7 +8345,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 364,
@@ -8005,7 +8368,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 365,
@@ -8027,7 +8391,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 366,
@@ -8049,7 +8414,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 367,
@@ -8071,7 +8437,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 368,
@@ -8093,7 +8460,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 369,
@@ -8115,7 +8483,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 370,
@@ -8137,7 +8506,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 371,
@@ -8159,7 +8529,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 372,
@@ -8181,7 +8552,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 373,
@@ -8203,7 +8575,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 374,
@@ -8225,7 +8598,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 375,
@@ -8247,7 +8621,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 376,
@@ -8269,7 +8644,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 377,
@@ -8291,7 +8667,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 378,
@@ -8313,7 +8690,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 379,
@@ -8335,7 +8713,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 380,
@@ -8357,7 +8736,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 381,
@@ -8379,7 +8759,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 382,
@@ -8401,7 +8782,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 383,
@@ -8423,7 +8805,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 384,
@@ -8445,7 +8828,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 385,
@@ -8467,7 +8851,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 386,
@@ -8489,7 +8874,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 387,
@@ -8511,7 +8897,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 388,
@@ -8533,7 +8920,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 389,
@@ -8555,7 +8943,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 390,
@@ -8577,7 +8966,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 391,
@@ -8599,7 +8989,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 392,
@@ -8621,7 +9012,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 393,
@@ -8643,7 +9035,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 394,
@@ -8665,7 +9058,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 395,
@@ -8687,7 +9081,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 396,
@@ -8709,7 +9104,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 397,
@@ -8731,7 +9127,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 398,
@@ -8753,7 +9150,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 399,
@@ -8775,7 +9173,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 400,
@@ -8797,7 +9196,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 401,
@@ -8819,7 +9219,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 402,
@@ -8841,7 +9242,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 403,
@@ -8863,7 +9265,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 404,
@@ -8885,7 +9288,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 405,
@@ -8907,7 +9311,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 406,
@@ -8929,7 +9334,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 407,
@@ -8951,7 +9357,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 408,
@@ -8973,7 +9380,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 409,
@@ -8995,7 +9403,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 410,
@@ -9017,7 +9426,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 411,
@@ -9039,7 +9449,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 412,
@@ -9061,7 +9472,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 413,
@@ -9083,7 +9495,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 414,
@@ -9105,7 +9518,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 415,
@@ -9127,7 +9541,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 416,
@@ -9149,7 +9564,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 417,
@@ -9171,7 +9587,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 418,
@@ -9193,7 +9610,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 419,
@@ -9215,7 +9633,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 420,
@@ -9237,7 +9656,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 421,
@@ -9259,7 +9679,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 422,
@@ -9281,7 +9702,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 423,
@@ -9303,7 +9725,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 424,
@@ -9325,7 +9748,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 425,
@@ -9347,7 +9771,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 426,
@@ -9369,7 +9794,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 427,
@@ -9391,7 +9817,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 428,
@@ -9413,7 +9840,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 429,
@@ -9435,7 +9863,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 430,
@@ -9457,7 +9886,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 431,
@@ -9479,7 +9909,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 432,
@@ -9501,7 +9932,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 433,
@@ -9523,7 +9955,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 434,
@@ -9545,7 +9978,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 435,
@@ -9567,7 +10001,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 436,
@@ -9589,7 +10024,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 437,
@@ -9611,7 +10047,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 438,
@@ -9633,7 +10070,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 439,
@@ -9655,7 +10093,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 440,
@@ -9677,7 +10116,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 441,
@@ -9699,7 +10139,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 442,
@@ -9721,7 +10162,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 443,
@@ -9743,7 +10185,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 444,
@@ -9765,7 +10208,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 445,
@@ -9787,7 +10231,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 446,
@@ -9809,7 +10254,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 447,
@@ -9831,7 +10277,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 448,
@@ -9853,7 +10300,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 449,
@@ -9875,7 +10323,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": "Buku"
+    "catatan": "Buku",
+    "sitasi": 0
   },
   {
     "id": 450,
@@ -9897,7 +10346,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 451,
@@ -9919,7 +10369,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 452,
@@ -9941,7 +10392,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 453,
@@ -9963,7 +10415,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 454,
@@ -9985,7 +10438,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 455,
@@ -10007,7 +10461,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 456,
@@ -10029,7 +10484,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 457,
@@ -10051,7 +10507,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 458,
@@ -10073,7 +10530,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 459,
@@ -10095,7 +10553,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 460,
@@ -10117,7 +10576,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 461,
@@ -10139,7 +10599,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 462,
@@ -10161,7 +10622,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 463,
@@ -10183,7 +10645,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 464,
@@ -10205,7 +10668,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 465,
@@ -10227,7 +10691,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 466,
@@ -10249,7 +10714,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 467,
@@ -10271,7 +10737,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 468,
@@ -10293,7 +10760,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 469,
@@ -10315,7 +10783,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 470,
@@ -10337,7 +10806,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 471,
@@ -10359,7 +10829,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 472,
@@ -10381,7 +10852,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 473,
@@ -10403,7 +10875,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 474,
@@ -10425,7 +10898,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 475,
@@ -10447,7 +10921,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 476,
@@ -10469,7 +10944,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 477,
@@ -10491,7 +10967,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 478,
@@ -10513,7 +10990,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 479,
@@ -10535,7 +11013,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 480,
@@ -10557,7 +11036,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 481,
@@ -10579,7 +11059,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 482,
@@ -10601,7 +11082,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 483,
@@ -10623,7 +11105,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 484,
@@ -10645,7 +11128,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 485,
@@ -10667,7 +11151,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 486,
@@ -10689,7 +11174,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 487,
@@ -10711,7 +11197,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 488,
@@ -10733,7 +11220,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 489,
@@ -10755,7 +11243,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 490,
@@ -10777,7 +11266,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 491,
@@ -10799,7 +11289,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 492,
@@ -10821,7 +11312,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 493,
@@ -10843,7 +11335,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 494,
@@ -10865,7 +11358,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 495,
@@ -10887,7 +11381,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 496,
@@ -10909,7 +11404,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 497,
@@ -10931,7 +11427,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 498,
@@ -10953,7 +11450,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 499,
@@ -10975,7 +11473,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 500,
@@ -10997,7 +11496,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 501,
@@ -11019,7 +11519,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 502,
@@ -11041,7 +11542,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 503,
@@ -11063,7 +11565,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 504,
@@ -11085,7 +11588,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 505,
@@ -11107,7 +11611,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 506,
@@ -11129,7 +11634,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 507,
@@ -11151,7 +11657,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 508,
@@ -11173,7 +11680,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 509,
@@ -11195,7 +11703,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 510,
@@ -11217,7 +11726,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 511,
@@ -11239,7 +11749,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 512,
@@ -11261,7 +11772,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 513,
@@ -11283,7 +11795,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 514,
@@ -11305,7 +11818,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 515,
@@ -11327,7 +11841,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 516,
@@ -11349,7 +11864,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 517,
@@ -11371,7 +11887,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 518,
@@ -11393,7 +11910,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 519,
@@ -11415,7 +11933,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 520,
@@ -11437,7 +11956,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 521,
@@ -11459,7 +11979,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 522,
@@ -11481,7 +12002,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 523,
@@ -11503,7 +12025,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 524,
@@ -11525,7 +12048,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 525,
@@ -11547,7 +12071,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 526,
@@ -11569,7 +12094,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 527,
@@ -11591,7 +12117,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 528,
@@ -11613,7 +12140,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 529,
@@ -11635,7 +12163,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 530,
@@ -11657,7 +12186,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 531,
@@ -11679,7 +12209,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 532,
@@ -11701,7 +12232,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 533,
@@ -11723,7 +12255,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 534,
@@ -11745,7 +12278,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 535,
@@ -11767,7 +12301,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 536,
@@ -11789,7 +12324,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 537,
@@ -11811,7 +12347,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 538,
@@ -11833,7 +12370,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 539,
@@ -11855,7 +12393,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 540,
@@ -11877,7 +12416,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 541,
@@ -11899,7 +12439,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 542,
@@ -11921,7 +12462,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 543,
@@ -11943,7 +12485,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 544,
@@ -11965,7 +12508,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 545,
@@ -11987,7 +12531,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 546,
@@ -12009,7 +12554,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 547,
@@ -12031,7 +12577,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 548,
@@ -12053,7 +12600,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 549,
@@ -12075,7 +12623,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 550,
@@ -12097,7 +12646,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 551,
@@ -12119,7 +12669,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 552,
@@ -12141,7 +12692,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 553,
@@ -12163,7 +12715,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 554,
@@ -12185,7 +12738,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 555,
@@ -12207,7 +12761,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 556,
@@ -12229,7 +12784,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 557,
@@ -12251,7 +12807,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 558,
@@ -12273,7 +12830,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 559,
@@ -12295,7 +12853,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 560,
@@ -12317,7 +12876,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 561,
@@ -12339,7 +12899,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 562,
@@ -12361,7 +12922,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 563,
@@ -12383,7 +12945,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 564,
@@ -12405,7 +12968,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 565,
@@ -12427,7 +12991,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 566,
@@ -12449,7 +13014,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 567,
@@ -12471,7 +13037,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 568,
@@ -12493,7 +13060,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 569,
@@ -12515,7 +13083,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 570,
@@ -12537,7 +13106,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 571,
@@ -12559,7 +13129,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 572,
@@ -12581,7 +13152,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 573,
@@ -12603,7 +13175,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 574,
@@ -12625,7 +13198,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 575,
@@ -12647,7 +13221,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 576,
@@ -12669,7 +13244,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 577,
@@ -12691,7 +13267,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 578,
@@ -12713,7 +13290,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 579,
@@ -12735,7 +13313,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 580,
@@ -12757,7 +13336,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 581,
@@ -12779,7 +13359,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 582,
@@ -12801,7 +13382,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 583,
@@ -12823,7 +13405,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 584,
@@ -12845,7 +13428,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 585,
@@ -12867,7 +13451,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 586,
@@ -12889,7 +13474,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 587,
@@ -12911,7 +13497,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 588,
@@ -12933,7 +13520,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 589,
@@ -12955,7 +13543,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 590,
@@ -12977,7 +13566,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 591,
@@ -12999,7 +13589,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 592,
@@ -13021,7 +13612,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 593,
@@ -13043,7 +13635,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 594,
@@ -13065,7 +13658,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 595,
@@ -13087,7 +13681,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 596,
@@ -13109,7 +13704,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 597,
@@ -13131,7 +13727,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 598,
@@ -13153,7 +13750,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 599,
@@ -13175,7 +13773,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 600,
@@ -13197,7 +13796,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 601,
@@ -13219,7 +13819,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 602,
@@ -13241,7 +13842,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 603,
@@ -13263,7 +13865,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 604,
@@ -13285,7 +13888,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 605,
@@ -13307,7 +13911,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 606,
@@ -13329,7 +13934,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 607,
@@ -13351,7 +13957,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 608,
@@ -13373,7 +13980,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 609,
@@ -13395,7 +14003,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 610,
@@ -13417,7 +14026,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 611,
@@ -13439,7 +14049,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 612,
@@ -13461,7 +14072,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 613,
@@ -13483,7 +14095,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 614,
@@ -13505,7 +14118,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 615,
@@ -13527,7 +14141,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 616,
@@ -13549,7 +14164,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 617,
@@ -13571,7 +14187,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 618,
@@ -13593,7 +14210,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 619,
@@ -13615,14 +14233,15 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 620,
     "no": 102,
     "unit": "STIA MKS",
     "sourceSheet": "STIA MKS",
-    "judul": "Enhancing civil servants performance through technical\n competency development in Provincial Government of West Sulawesi, Indonesia",
+    "judul": "Enhancing civil servants performance through technical\r\n competency development in Provincial Government of West Sulawesi, Indonesia",
     "jenis": "Jurnal/Penelitian Dosen",
     "jadwalPublikasi": "2024",
     "tahun": 2024,
@@ -13637,7 +14256,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 621,
@@ -13659,7 +14279,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 622,
@@ -13681,7 +14302,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 623,
@@ -13703,7 +14325,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 624,
@@ -13725,7 +14348,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 625,
@@ -13747,7 +14371,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 626,
@@ -13769,7 +14394,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 627,
@@ -13791,7 +14417,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 628,
@@ -13813,7 +14440,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 629,
@@ -13835,7 +14463,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 630,
@@ -13857,7 +14486,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 631,
@@ -13879,7 +14509,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 632,
@@ -13901,7 +14532,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 633,
@@ -13923,7 +14555,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 634,
@@ -13945,7 +14578,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 635,
@@ -13967,7 +14601,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 636,
@@ -13989,7 +14624,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 637,
@@ -14011,7 +14647,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 638,
@@ -14033,7 +14670,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 639,
@@ -14055,7 +14693,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 640,
@@ -14077,7 +14716,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 641,
@@ -14099,7 +14739,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 642,
@@ -14121,7 +14762,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 643,
@@ -14143,7 +14785,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 644,
@@ -14165,7 +14808,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 645,
@@ -14187,7 +14831,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 646,
@@ -14209,7 +14854,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 647,
@@ -14231,7 +14877,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 648,
@@ -14253,7 +14900,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 649,
@@ -14275,7 +14923,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 650,
@@ -14297,7 +14946,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 651,
@@ -14319,7 +14969,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 652,
@@ -14341,7 +14992,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 653,
@@ -14363,7 +15015,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 654,
@@ -14385,7 +15038,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 655,
@@ -14407,7 +15061,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 656,
@@ -14429,7 +15084,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 657,
@@ -14451,7 +15107,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 658,
@@ -14473,7 +15130,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 659,
@@ -14495,7 +15153,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 660,
@@ -14517,7 +15176,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 661,
@@ -14539,7 +15199,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 662,
@@ -14561,7 +15222,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 663,
@@ -14583,7 +15245,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 664,
@@ -14605,7 +15268,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 665,
@@ -14627,7 +15291,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 666,
@@ -14649,7 +15314,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 667,
@@ -14671,7 +15337,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 668,
@@ -14693,7 +15360,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 669,
@@ -14715,7 +15383,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 670,
@@ -14737,7 +15406,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 671,
@@ -14759,7 +15429,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 672,
@@ -14781,7 +15452,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 673,
@@ -14803,7 +15475,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 674,
@@ -14825,7 +15498,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 675,
@@ -14847,7 +15521,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 676,
@@ -14869,7 +15544,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 677,
@@ -14891,7 +15567,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 678,
@@ -14913,7 +15590,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 679,
@@ -14935,7 +15613,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 680,
@@ -14957,7 +15636,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 681,
@@ -14979,7 +15659,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 682,
@@ -15001,7 +15682,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 683,
@@ -15023,7 +15705,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 684,
@@ -15045,7 +15728,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 685,
@@ -15067,7 +15751,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 686,
@@ -15078,7 +15763,7 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "jenis": "Jurnal/Penelitian",
     "jadwalPublikasi": "2026",
     "tahun": 2026,
-    "cluster1": "Tata Kelola & Manajemen ASN",
+    "cluster1": "Manajemen Pemerintahan",
     "cluster2": "",
     "jurnal": "",
     "mediaOnline": "",
@@ -15089,7 +15774,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 687,
@@ -15111,7 +15797,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 688,
@@ -15133,7 +15820,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 689,
@@ -15155,7 +15843,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 690,
@@ -15177,7 +15866,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 691,
@@ -15199,7 +15889,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 692,
@@ -15221,7 +15912,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 693,
@@ -15229,7 +15921,7 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "unit": "DAPKK",
     "sourceSheet": "DAPKK",
     "judul": "Survei Disrupsi Pekerjaan dan Keterampilan Strategis (Top Skills ASN)",
-    "jenis": "",
+    "jenis": "Survei",
     "jadwalPublikasi": "2025",
     "tahun": 2025,
     "cluster1": "Tata Kelola & Manajemen ASN",
@@ -15243,7 +15935,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 694,
@@ -15251,7 +15944,7 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "unit": "DAPKK",
     "sourceSheet": "DAPKK",
     "judul": "Survei Future Jobs and Skills Sektor Ketahanan Pangan",
-    "jenis": "",
+    "jenis": "Survei",
     "jadwalPublikasi": "2025",
     "tahun": 2025,
     "cluster1": "Prioritas Presiden",
@@ -15265,7 +15958,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 695,
@@ -15273,7 +15967,7 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "unit": "DAPKK",
     "sourceSheet": "DAPKK",
     "judul": "Survei Produktivitas Sektor Publik Pertanian dengan Pendekatan APO (Tanaman Padi dan Jagung)",
-    "jenis": "",
+    "jenis": "Survei",
     "jadwalPublikasi": "2025",
     "tahun": 2025,
     "cluster1": "Prioritas Presiden",
@@ -15287,7 +15981,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 696,
@@ -15295,7 +15990,7 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "unit": "DAPKK",
     "sourceSheet": "DAPKK",
     "judul": "Ekosistem Inovasi",
-    "jenis": "",
+    "jenis": "Buku",
     "jadwalPublikasi": "2025",
     "tahun": 2025,
     "cluster1": "Pelayanan Publik",
@@ -15309,7 +16004,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 697,
@@ -15317,7 +16013,7 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "unit": "DAPKK",
     "sourceSheet": "DAPKK",
     "judul": "Desain kelembagaan pengentasan kemiskinan",
-    "jenis": "",
+    "jenis": "Policy Paper",
     "jadwalPublikasi": "2025",
     "tahun": 2025,
     "cluster1": "Prioritas Presiden",
@@ -15325,13 +16021,14 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "jurnal": "",
     "mediaOnline": "",
     "websiteLan": "https://lan.go.id/blueprint-desain-kelembagaan-pengentasan-kemiskinan",
-    "websiteUnit": "Link 1 Podcast\n https://www.instagram.com/reels/DXBntX3guq-/\n  \n Link 2 Podcast\n https://www.instagram.com/humas_lan/reel/DW-15ZeEXCw/",
-    "instagramLan": "Link 1 Podcast\n https://www.instagram.com/reels/DXBntX3guq-/\n  \n Link 2 Podcast\n https://www.instagram.com/humas_lan/reel/DW-15ZeEXCw/",
-    "instagramUnit": "Link 1 Podcast\n https://www.youtube.com/watch?v=dSY0oAlWA0w\n Link 2 Podcast\n https://www.youtube.com/watch?v=JD3RYAfLoAI",
-    "youtubeLan": "Link 1 Podcast\n https://www.youtube.com/watch?v=dSY0oAlWA0w\n Link 2 Podcast\n https://www.youtube.com/watch?v=JD3RYAfLoAI",
+    "websiteUnit": "Link 1 Podcast https://www.instagram.com/reels/DXBntX3guq-/   Link 2 Podcast https://www.instagram.com/humas_lan/reel/DW-15ZeEXCw/",
+    "instagramLan": "Link 1 Podcast https://www.instagram.com/reels/DXBntX3guq-/   Link 2 Podcast https://www.instagram.com/humas_lan/reel/DW-15ZeEXCw/",
+    "instagramUnit": "Link 1 Podcast https://www.youtube.com/watch?v=dSY0oAlWA0w Link 2 Podcast https://www.youtube.com/watch?v=JD3RYAfLoAI",
+    "youtubeLan": "Link 1 Podcast https://www.youtube.com/watch?v=dSY0oAlWA0w Link 2 Podcast https://www.youtube.com/watch?v=JD3RYAfLoAI",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 698,
@@ -15339,7 +16036,7 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "unit": "DAPKK",
     "sourceSheet": "DAPKK",
     "judul": "Monitoring dan Evaluasi Sekolah Rakyat",
-    "jenis": "",
+    "jenis": "Policy Paper",
     "jadwalPublikasi": "2026",
     "tahun": 2026,
     "cluster1": "Prioritas Presiden",
@@ -15353,7 +16050,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "https://www.youtube.com/watch?v=0xDToqKsjkY",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 699,
@@ -15361,7 +16059,7 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "unit": "DAPKK",
     "sourceSheet": "DAPKK",
     "judul": "Workplace trend",
-    "jenis": "",
+    "jenis": "Policy Brief",
     "jadwalPublikasi": "2026",
     "tahun": 2026,
     "cluster1": "Tata Kelola & Manajemen ASN",
@@ -15375,7 +16073,8 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
   },
   {
     "id": 700,
@@ -15383,7 +16082,7 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "unit": "DAPKK",
     "sourceSheet": "DAPKK",
     "judul": "Survei Perilaku Kepemimpinan Adaptif Berdasarkan Persepsi Aparatur Sipil Negara",
-    "jenis": "",
+    "jenis": "Survei",
     "jadwalPublikasi": "2026",
     "tahun": 2026,
     "cluster1": "Tata Kelola & Manajemen ASN",
@@ -15397,6 +16096,3480 @@ const INITIAL_INISIATIF_AK_DOSEN = [
     "youtubeLan": "",
     "youtubeUnit": "",
     "mediaTelevisi": "",
-    "catatan": ""
+    "catatan": "",
+    "sitasi": 0
+  },
+  {
+    "id": 701,
+    "no": 50,
+    "unit": "STIA JKT",
+    "sourceSheet": "STIA JKT",
+    "judul": "DTA DAUMMY",
+    "jenis": "Artikel",
+    "jadwalPublikasi": "",
+    "tahun": 2026,
+    "cluster1": "Digitalisasi",
+    "cluster2": "",
+    "jurnal": "https://dashboard-monitoring-survei-lan.vercel.app/",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "",
+    "sitasi": 0
+  },
+  {
+    "id": 702,
+    "no": 1,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Strategi Implementasi Smart City Kota Bandung",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2022,
+    "cluster1": "Tata Kelola dan Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:KlAtU1dfN6UC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: AA Wahyudi, YR Widowati, AA Nugroho. Diterbitkan: Jurnal Good Governance, 2022. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 703,
+    "no": 2,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Collaborative governance in Indonesia’s nutritious food policy: A multi-stakeholder implementation model",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2025,
+    "cluster1": "Tata Kelola dan Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:hMod-77fHWUC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: AA Nugroho, A Sudrajat, IF Azmi, F Ardiansyah, R Prasetyanti. Diterbitkan: Jurnal Borneo Administrator 21 (2), 203-218, 2025. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 704,
+    "no": 3,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Transportasi publik terintegrasi: Optimalisasi implementasi smart mobility di DKI Jakarta",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2023,
+    "cluster1": "Tata Kelola dan Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:mB3voiENLucC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: AM Margaretha, AA Nugroho. Diterbitkan: Journal Of Public Policy and Applied Administration, 47-58, 2023. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 705,
+    "no": 4,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Digital divide: how is Indonesian public service affected",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2024,
+    "cluster1": "Tata Kelola dan Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:_Qo2XoVZTnwC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: E Sutrisno, MS Silitonga, RR Yusuf, AA Nugroho. Diterbitkan: JPPI (Jurnal Penelitian Pendidikan Indonesia) 10 (3), 454-463, 2024. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 706,
+    "no": 5,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Pembangunan Ekonomi Berbasis Potensi Wilayah dan Pemberdayaan Masyarakat: Analisis Pengembangan Ekonomi Kabupaten Ngawi",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2017,
+    "cluster1": "Tata Kelola dan Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:u5HHmVD_uO8C",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: AA Nugroho. Diterbitkan: Jurnal Pembangunan Dan Kebijakan Publik 8 (2), 30-36, 2017. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 707,
+    "no": 6,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Evaluasi Kebijakan Pkh (Program Keluarga Harapan) Di Indonesia",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2022,
+    "cluster1": "Tata Kelola dan Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:YOwf2qJgpHMC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: AP Anggraeni, AA Nugroho. Diterbitkan: Journal of Public Policy and Applied Administration, 2022. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 708,
+    "no": 7,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Shift kerja dan masa kerja terhadap kelelahan kerja pada pengemudi angkutan batu bara",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2020,
+    "cluster1": "Tata Kelola dan Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:2P1L_qKh6hAC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: HA Maulani, S Sukismanto, H Yuningrum, A Nugroho. Diterbitkan: Jurnal Penelitian Dan Pengembangan Kesehatan Masyarakat Indonesia 1 (1), 2020. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 709,
+    "no": 8,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "The role of e-government to improve the implementation of merit system in Indonesian local goverments",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2023,
+    "cluster1": "Tata Kelola dan Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:dhFuZR0502QC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: AA Nugroho, NS Rahayu, RR Yusuf. Diterbitkan: KnE Social Sciences, 516–542-516–542, 2023. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 710,
+    "no": 9,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Ironi di Balik Kemewahan Industri Perkebunan Kelapa Sawit",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2017,
+    "cluster1": "Tata Kelola dan Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:u-x6o8ySG0sC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: AA Nugroho. Diterbitkan: Jurnal Pembangunan Dan Kebijakan Publik 8 (1), 24-30, 2017. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 711,
+    "no": 10,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Pengaruh pemberian pupuk kandang dan kalium terhadap kualitas jagung manis pada lahan kering",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 1999,
+    "cluster1": "Tata Kelola dan Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:ns9cj8rnVeAC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: A Nugroho, N Basuki, MA Nasution. Diterbitkan: Habitat 10 (105), 33-38, 1999. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 712,
+    "no": 11,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "A systematic literature review: Challenges and strategy of bureaucratic reform in developing countries",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2024,
+    "cluster1": "Tata Kelola dan Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:R3hNpaxXUhUC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: AA Nugroho, BS Haryono, F Putera, I Noor. Diterbitkan: Journal of Law and Sustainable Development 12 (2), 40, 2024. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 713,
+    "no": 12,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Governance Network in Sustainable Tourism Development: A case of thematic kampung tourism in Malang, Indonesia",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2019,
+    "cluster1": "Tata Kelola dan Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:YsMSGLbcyi4C",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: R Prasetyanti, AA Nugroho. Diterbitkan: Annual international conference of business and public administration …, 2019. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 714,
+    "no": 13,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Narrative policy of bureaucratic reform in Indonesia: Rules of narrative in mass media",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2024,
+    "cluster1": "Tata Kelola dan Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:HDshCWvjkbEC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: BS Haryono, AA Nugroho, F Putera, I Noor. Diterbitkan: Journal of Infrastructure, Policy and Development 8 (1), 2024. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 715,
+    "no": 14,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Anti-corruption system 4.0: The adoption of blockchain technology in the public sector",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2023,
+    "cluster1": "Tata Kelola dan Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:QIV2ME_5wuYC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: IF Azmi, AA Nugroho. Diterbitkan: Integritas: Jurnal Antikorupsi 9 (1), 93-108, 2023. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 716,
+    "no": 15,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Transformation of Innovation Values and Culture: Innovation Analysis of Regional Planning System in Special Region of Yogyakarta, Indonesia",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2020,
+    "cluster1": "Tata Kelola dan Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:WF5omc3nYNoC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: AA Nugroho, NS Rahayu. Diterbitkan: Transformation 11 (4), 680-692, 2020. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 717,
+    "no": 16,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Alleviating Societyâ€™ s Economic Crisis: Narrative Policy on Social Safety Nets Policy Process During Covid-19 Pandemic",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2021,
+    "cluster1": "Tata Kelola dan Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:0EnyYjriUFMC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: AA Nugroho, IF Azmi. Diterbitkan: Policy &amp; Governance Review 5 (2), 113-127, 2021. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 718,
+    "no": 17,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "IMPROVING PUBLIC PARTICIPATION IN INNOVATION MANAGEMENT OF VILLAGE-OWNED ENTERPRISE: LESSON LEARNED FROM THE BEST VILLAGE-OWNED ENTERPRISE IN INDONESIA.",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2020,
+    "cluster1": "Tata Kelola dan Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:LkGwnXOMwfcC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: A Suryanto, AA Nugroho. Diterbitkan: PalArch&#39;s Journal of Archaeology of Egypt/Egyptology 17 (4), 2020. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 719,
+    "no": 18,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Enhancing civil servant career development: A talent management approach in Indonesia",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2024,
+    "cluster1": "Tata Kelola dan Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:YFjsv_pBGBYC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: A Sudrajat, NS Fahrani, AA Nugroho, WA Yohanitas, IF Azmi. Diterbitkan: Journal of Infrastructure, Policy and Development 8 (7), 4832, 2024. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 720,
+    "no": 19,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "ANALISIS PENYELENGGARAAN PELAYANAN PUBLIK: SURVEI INDEKS KEPUASAN MASYARAKAT DI PEMDA KABUPATEN JAYAPURA TAHUN 2019",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2020,
+    "cluster1": "Tata Kelola dan Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:hqOjcs7Dif8C",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: A Nugroho, K Sholihati, M Rizki. Diterbitkan: Jurnal Ilmu Administrasi 17 (17/2), 242-254, 2020. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 721,
+    "no": 20,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Desentralisasi fiskal dan kemandirian daerah pemekaran: Studi kasus pada Provinsi Sulawesi Barat",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2025,
+    "cluster1": "Tata Kelola dan Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:maZDTaKrznsC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: AA Nugroho, C Candrawati. Diterbitkan: Dialogue: Jurnal Ilmu Administrasi Publik 7 (1), 046-057, 2025. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 722,
+    "no": 21,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Vocational village model: Bridging the gaps towards sustainable rural development",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2024,
+    "cluster1": "Tata Kelola dan Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:k_IJM867U9cC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: A Sudrajat, R Prasetyanti, AA Nugroho, NS Iskandar. Diterbitkan: Journal of Infrastructure, Policy and Development 8 (13), 7021, 2024. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 723,
+    "no": 22,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Eksklusi petani pada industri kelapa sawit: Dalih kemitraan pada perkebunan inti-plasma skema kredit koperasi primer anggota",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2024,
+    "cluster1": "Tata Kelola dan Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:TQgYirikUcIC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: AA Nugroho, RR Yusuf, NS Rahayu. Diterbitkan: Kemitraan semu dalam ekonomi gig di Indonesia, 153-170, 2024. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 724,
+    "no": 23,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Effect Of Digital Community Towards Democracy Process: Digital Partisipation Analysis In Indonesia",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2020,
+    "cluster1": "Tata Kelola dan Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:eQOLeE2rZwMC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: A Nugroho. Diterbitkan: Jurnal Good Governance, 2020. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 725,
+    "no": 24,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Analisis penerapan smart governance dalam mewujudkan smart city di Kota Semarang",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2023,
+    "cluster1": "Tata Kelola dan Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:qUcmZB5y_30C",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: CD Damayanthi, AA Nugroho. Diterbitkan: Konferensi Nasional Ilmu Administrasi 7 (1), 77-83, 2023. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 726,
+    "no": 25,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Exclusion of smallholders in the Indonesia palm oil industry",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2022,
+    "cluster1": "Tata Kelola dan Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:3fE2CSJIrl8C",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: NS Rahayu, AA Nugroho, RR Yusuf. Diterbitkan: KnE Social Sciences, 1158–1182-1158–1182, 2022. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 727,
+    "no": 26,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "The Development of Innovation Knowledge Management System in Tangerang Regency",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2023,
+    "cluster1": "Tata Kelola dan Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:7PzlFSSx8tAC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: W Yohanitas, A Ramadhan, M Pribadi, N Fahrani, R Syah, S Andreani, .... Diterbitkan: Lex localis - Journal of Local Self-Government 21 (23), 637-664, 2023. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 728,
+    "no": 27,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Strategi Pengambilan Keputusan Keuangan Berkelanjutan Dengan Artificial Intelligence For Financial Advisor (AIFA)",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2022,
+    "cluster1": "Tata Kelola dan Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:4DMP91E08xMC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: AP Anggraeni, AA Nugroho. Diterbitkan: Konferensi Nasional Ilmu Administrasi 6 (1), 156-162, 2022. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 729,
+    "no": 28,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Implementasi dan Analisis Jaringan Fiber to The Tower dengan Menggunakan Teknologi GPON",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2023,
+    "cluster1": "Tata Kelola dan Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:vV6vV6tmYwMC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: AA Nugroho, D Pranindito, E Wahyudi. Diterbitkan: Din. Rekayasa 19 (2), 119, 2023. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 730,
+    "no": 29,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Sistem anti-korupsi 4.0: Adopsi teknologi blockchain di sektor publik",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2023,
+    "cluster1": "Tata Kelola dan Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:blknAaTinKkC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: IF Azmi, AA Nugroho. Diterbitkan: Integritas: Jurnal Antikorupsi 9 (1), 93-108, 2023. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 731,
+    "no": 30,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Labor Market Flexibility: Advantages for Workforce or Threat?",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2018,
+    "cluster1": "Tata Kelola dan Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:Tyk-4Ss8FVUC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: AA Nugroho. Diterbitkan: Policy &amp; Governance Review 2 (2), 132-147, 2018. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 732,
+    "no": 31,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Response of growth and yield of soybean (Glycine max (L.) Merill) at various N fertilization levels and chicken cage fertilizers",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2014,
+    "cluster1": "Tata Kelola dan Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:RGFaLdJalmkC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: M Zainal, A Nugroho, NE Suminarti. Diterbitkan: J. Produksi Tanaman 2 (6), 484-490, 2014. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 733,
+    "no": 32,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Pengaruh Jenis dan Populasi Gulma Terhadap Pertumbuhan Vegetatif Tanaman Pepaya (Carica papaya L.)",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 1998,
+    "cluster1": "Tata Kelola dan Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:O3NaXMp0MMsC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: HT Sebayang, A Nugroho, S Indrayana. Diterbitkan: Habitat 9 (104), 13-16, 1998. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 734,
+    "no": 33,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Analisis Potensi dan Ketimpangan Pembangunan Kabupaten/Kota di Provinsi Kepulauan Riau",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2024,
+    "cluster1": "Tata Kelola dan Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:iH-uZ7U-co4C",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: C Candrawati, AA Nugroho. Diterbitkan: Good Governance 20 (2), 2024. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 735,
+    "no": 34,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Optimalisasi Pelayanan Melalui Website: Assessment Situs Web Pemerintah Provinsi DKI Jakarta",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2023,
+    "cluster1": "Tata Kelola dan Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:hC7cP41nSMkC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: AM Margaretha, AA Nugroho. Diterbitkan: Konferensi Nasional Ilmu Administrasi 7 (1), 36-42, 2023. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 736,
+    "no": 35,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Governance Network in Sustainable Tourism Development: A case of thematic kampung tourism in Malang, Indonesia. 93 (AICoBPA 2018), 184–188",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2019,
+    "cluster1": "Tata Kelola dan Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:35N4QoGY0k4C",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: R Prasetyanti, AA Nugroho. Diterbitkan: . Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 737,
+    "no": 36,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Strategy for Accelerating Regional Development Reached Through Digital Governance",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2023,
+    "cluster1": "Tata Kelola dan Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:L8Ckcad2t8MC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: E Sutrisno, N Kurniawati, I Reza, A Nugroho, D Khaerunisa. Diterbitkan: International Journal of Membrane Science and Technology 10 (2), 1200-1210, 2023. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 738,
+    "no": 37,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Serikat Buruh dalam Pusaran Neoliberalisme: Antara Kontrol Represif dan Ilusi Kebebasan Berserikat",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2018,
+    "cluster1": "Tata Kelola dan Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:qjMakFHDy7sC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: AA Nugroho. Diterbitkan: Kebijakan Publik dalam Pusaran Perubahan Ideologi: Dari Kuasa Negara ke …, 2018. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 739,
+    "no": 38,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Relasi industrial pada pasar tenaga kerja fleksibel dan perjuangan buruh menuntut upah layak serta jaminan kerja di kawasan industri Bekasi",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2016,
+    "cluster1": "Tata Kelola dan Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:d1gkVwhDpl0C",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: AA Nugroho. Diterbitkan: Universitas Gadjah Mada, 2016. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 740,
+    "no": 39,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Empowering women for reducing radicalization in Indonesia",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2023,
+    "cluster1": "Tata Kelola dan Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:ZeXyd9-uunAC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: F Safina, AA Nugroho. Diterbitkan: Gender equality: international journal of child and gender studies 9 (2 …, 2023. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 741,
+    "no": 40,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "ADOPSI TEKNOLOGI BLOCKCHAIN DI SEKTOR PUBLIK: PELUANG PEMBENTUKAN SISTEM IDENTITAS DIGITAL NASIONAL DI ERA VUCA",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2023,
+    "cluster1": "Tata Kelola dan Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:Wp0gIr-vW9MC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: LR Suminar, AA Nugroho. Diterbitkan: Dinamika Governance: Jurnal Ilmu Administrasi Negara 12 (4), 2023. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 742,
+    "no": 41,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Optimalisasi Layanan Kesehatan Melalui Inovasi Pelayanan Publik Proyek Perubahan Pelatihan Kepemimpinan (Optimizing Health Services Through Public Service Innovation Project …",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2020,
+    "cluster1": "Tata Kelola dan Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:ufrVoPGSRksC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: AA Nugroho, E Sutrisno, RR Yusuf. Diterbitkan: Setia Mengabdi: Jurnal Pengabdian kepada Masyarakat 1 (1), 26-38, 2020. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 743,
+    "no": 42,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Paradigma Administrasi Publikbunga Rampai Perjalanan Keilmuan Dari Public Administrationsampai Ke Public Governance",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2018,
+    "cluster1": "Tata Kelola dan Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:UeHWp8X0CEIC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: AA Nugroho. Diterbitkan: . Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 744,
+    "no": 43,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Menata Pegawai Non-ASN Pasca Kebijakan UU ASN 2023: Studi Pendahuluan tentang Precarity, Job Security, dan Tantangan Pekerjaan Layak di Sektor Publik",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2025,
+    "cluster1": "Tata Kelola dan Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:J_g5lzvAfSwC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: AA Nugroho, RA Gati, NS Aurelia. Diterbitkan: Jurnal Pembangunan dan Administrasi Publik, 78-88, 2025. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 745,
+    "no": 44,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Inovasi sebagai Strategi Reformasi Administrasi Pemerintah Daerah : Studi Pemerintah Daerah di Meksiko dan Indonesia",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2023,
+    "cluster1": "Tata Kelola dan Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:-f6ydRqryjwC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: RR Yusuf, AA Nugroho. Diterbitkan: Jurnal Good Governance 12 (No. 2 September 2023), 197-210, 2023. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 746,
+    "no": 45,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Peningkatan Sistem Merit Melalui Manajemen Pengembangan Kompetensi Terintegrasi Berbasis Teknologi Informasi di Pemerintah Kabupaten Garut",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2023,
+    "cluster1": "Tata Kelola dan Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:9ZlFYXVOiuMC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: RR Yusuf, NS Rahayu, A Nugroho, D Khaerunnisa. Diterbitkan: SWARNA: Jurnal Pengabdian Kepada Masyarakat 2 (4), 426-433, 2023. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 747,
+    "no": 46,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Optimalisasi layanan kesehatan melalui inovasi Pelayanan Publik proyek perubahan pelatihan kepemimpinan. 1 (1), 26–38",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2020,
+    "cluster1": "Tata Kelola dan Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:aqlVkmm33-oC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: AA Nugroho, E Sutrisno, RR Yusuf. Diterbitkan: doi. org/10.35912/jasispol. v1i1 163, 2020. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 748,
+    "no": 47,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Posisi Pengemudi dalam Industri Transportasi Online: Ilusi di balik Mitos Ekonomi Berbagi",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2018,
+    "cluster1": "Tata Kelola dan Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:IjCSPb-OGe4C",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: AA Nugroho. Diterbitkan: . Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 749,
+    "no": 48,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "STRATEGI MANAJEMEN SUMBER DAYA MANUSIA MENDUKUNG TRANSFORMASI DIGITAL PELAYANAN KESEHATAN DI RSU PENGAYOMAN CIPINANG",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2025,
+    "cluster1": "Tata Kelola dan Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:NaGl4SEjCO4C",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: S Wahyutiningrum, AA Nugroho. Diterbitkan: Journal of Contemporary Public Administration 5 (2), 96-113, 2025. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 750,
+    "no": 49,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "The Development of a Village Bureaucratic Reform Model Based on Mutual Cooperation: A Study on the Development of Underdeveloped Villages in East Nusa Tenggara",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2025,
+    "cluster1": "Tata Kelola dan Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:JV2RwH3_ST0C",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: E Sutrisno, AA Nugroho, RR Yusuf, AM Margaretha, L Shirayuki. Diterbitkan: KnE Social Sciences 10 (16), 443-461, 2025. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 751,
+    "no": 50,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Blockchain-Based Rural Governance: Analisis Potensi Adopsi Blockchain Untuk Meningkatkan Pembangunan Desa",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2024,
+    "cluster1": "Tata Kelola dan Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:r0BpntZqJG4C",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: M Rozikin, AA Nugroho, D Khaerunisa. Diterbitkan: Good Governance 20 (2), 2024. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 752,
+    "no": 51,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Meningkatkan Partisipasi Masyarakat dalam Inovasi Pengelolaan Ekonomi Desa: Lesson Learned dari BUMDes Terbaik Nasional",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2020,
+    "cluster1": "Tata Kelola dan Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:M3ejUd6NZC8C",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: AA Nugroho, N Rahayu. Diterbitkan: Prosiding Konferensi Nasional Ilmu Administrasi 4, 193-199, 2020. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 753,
+    "no": 52,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "FOSTERING ACCOUNTING&#39;S LEARNING OUTCOMES THROUGH VIDEO SCRIBE IN VOCATIONAL HIGH SCHOOLS",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2020,
+    "cluster1": "Tata Kelola dan Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:RYcK_YlVTxYC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: DE SARI, AA NUGROHO. Diterbitkan: INTERNATIONAL JOURNAL OF INFORMATION AND EDUCATION TECHNOLOGY 10 (3), 196-200, 2020. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 754,
+    "no": 53,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Resiliensi Kebijakan Di Tengah Kekosongan Struktur: Menguji Anomali Teori Edwards Iii Pada Dana Alokasi Khusus Non Fisik Perpustakaan",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2026,
+    "cluster1": "Tata Kelola dan Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:rO6llkc54NcC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: WD Prasetyo, AA Nugroho. Diterbitkan: Journal of Tax and Business 7 (2), 823-835, 2026. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 755,
+    "no": 54,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Model Pembiayaan Pengerukan Alur Pelayaran Melalui Kpbu Dengan Availability Payment Berbasis PNBP: Analisis Data 2015-2018",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2026,
+    "cluster1": "Tata Kelola dan Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:3s1wT3WcHBgC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: P Sandinugraha, AA Nugroho. Diterbitkan: Journal of Tax and Business 7 (2), 627-641, 2026. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 756,
+    "no": 55,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Tantangan Tata Kelola Informasi Anggaran pada Penginputan Usulan RPD DAK Nonfisik Dana Pelayanan PPA",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2026,
+    "cluster1": "Tata Kelola dan Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:ZHo1McVdvXMC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: LFS Lukman, AA Nugroho, D Sahara. Diterbitkan: Journal of Tax and Business 7 (2), 642-652, 2026. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 757,
+    "no": 56,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Persepsi Asn Generasi Z Terhadap Pemanfaatan Inovasi Digital Untuk Peningkatan Pelayanan Publik",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2026,
+    "cluster1": "Tata Kelola dan Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:HoB7MX3m0LUC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: D Triastuti, AA Nugroho. Diterbitkan: Journal of Tax and Business 7 (2), 597-609, 2026. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 758,
+    "no": 57,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Designing Digital Governance for International Nuclear Cooperation Using Soft Systems Methodology",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2026,
+    "cluster1": "Tata Kelola dan Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:g5m5HwL7SMYC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: D Desiani, AA Nugroho, D Irawan, D Triastuti, N Hasanah. Diterbitkan: Jurnal Publikasi Ilmu Manajemen 5 (3), 29-38, 2026. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 759,
+    "no": 58,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Hidden capital in tourism economy: an ecology of money laundering risk through property in Bali",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2026,
+    "cluster1": "Tata Kelola dan Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:M05iB0D1s5AC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: MS Silitonga, KD Solihati, I Vanya, RR Yusuf, AA Nugroho. Diterbitkan: Journal of Money Laundering Control, 1-19, 2026. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 760,
+    "no": 59,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Strategies For Developing Work Resilience For Generation Z In Public Sector Organizations: A Case Study At The Social Security Administering Body For Health (BPJS Kesehatan)",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2026,
+    "cluster1": "Tata Kelola dan Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:70eg2SAEIzsC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: R Reza, AA Nugroho. Diterbitkan: Kontigensi: Jurnal Ilmiah Manajemen 14 (1), 388-390, 2026. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 761,
+    "no": 60,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "E-Government Transformation in Central Lombok Regency: Evaluation Based on the CIPP Model",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2025,
+    "cluster1": "Tata Kelola dan Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:lSLTfruPkqcC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: AA Nugroho, A Sudrajat, K Solihati, CA Kwon. Diterbitkan: Jurnal Ilmu Administrasi: Media Pengembangan Ilmu dan Praktek Administrasi …, 2025. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 762,
+    "no": 61,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "The Contribution of International Tourism to Indonesia&#39;s Economic Development: A Price, Income Elasticity, and Sustainable Tourism Policy Perspective",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2025,
+    "cluster1": "Tata Kelola dan Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:NMxIlDl6LWMC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: AA Nugroho, C Candrawati. Diterbitkan: Journal of Governance 10 (3), 2025. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 763,
+    "no": 62,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Social Innovation as a Step Towards Proper Governance: A Case Study of Community-based Development Planning in Lebakgedong Sub-Distrik Lebak Regency.",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2025,
+    "cluster1": "Tata Kelola dan Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:M3NEmzRMIkIC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: A Samudera, F Anggraeni, RK Nisa, AA Nugroho. Diterbitkan: KnE Social Sciences, 428, 2025. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 764,
+    "no": 63,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Beyond Collaboration and Interorganizational Networks: The&quot; Gotong Royong&quot; Model of Bureaucratic Reform in Indonesia.",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2024,
+    "cluster1": "Tata Kelola dan Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:SeFeTyx0c_EC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: AA Nugroho, BS Haryono, F Putera, I Noor. Diterbitkan: EAI Computing &amp; Communication in Emerging Regions-CCER, 1, 2024. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 765,
+    "no": 64,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Improving the Local Government Performance: The Role of Digital Innovation and Digital Leadership.",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2024,
+    "cluster1": "Tata Kelola dan Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:pqnbT2bcN3wC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: NS Rahayu, AA Nugroho, RR Yusuf, YR Widowati. Diterbitkan: EAI Computing &amp; Communication in Emerging Regions-CCER, 1, 2024. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 766,
+    "no": 65,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "PENGGUNAAN BLOCKCHAIN SEBAGAI UPAYA PENINGKATAN KINERJA ORGANISASI PUBLIK DI ERA REVOLUSI INDUSTRI 4.0",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2023,
+    "cluster1": "Tata Kelola dan Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:qxL8FJ1GzNcC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: D Khaerunnisa, AA Wahyudi, AA Nugroho. Diterbitkan: Dinamika Governance: Jurnal Ilmu Administrasi Negara 12 (4), 2023. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 767,
+    "no": 66,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "BUKU AJAR KEBIJAKAN PUBLIK",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2023,
+    "cluster1": "Tata Kelola dan Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:BqipwSGYUEgC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: AA Nugroho, A Rahmawati, IF Reza, N Kurniawati, R Prasetyanti. Diterbitkan: Damera Press, 2023. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 768,
+    "no": 67,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Women’s School Community: Social Capital-Based as Gender Mainstreaming Model in Rural Development",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2022,
+    "cluster1": "Tata Kelola dan Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:_kc_bZDykSQC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: D Khaerunnisa, AA Nugroho, A Ayunda W., MM Rifali. Diterbitkan: International Journal of Management and Applied Science (IJMAS) 8 (1), 93-97, 2022. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 769,
+    "no": 68,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Analisis Pelayanan Pengaduan Melalui Sistem Cepat Respon Masyarakat (CRM) Di Provinsi DKI Jakarta Analysis of Complaint Services Through the Rapid Community Response System …",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2022,
+    "cluster1": "Tata Kelola dan Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:mVmsd5A6BfQC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: YR Widowati, AA Nugroho. Diterbitkan: Konferensi Nasional Ilmu Administrasi 6 (2022), 169, 2022. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 770,
+    "no": 69,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Governance Network in Sustainable Tourism Development: A Case of Thematic Kampung Tourism in Malang, Indonesia",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2019,
+    "cluster1": "Tata Kelola dan Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:ldfaerwXgEUC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: A Nugroho, R Prasetyanti. Diterbitkan: Atlantis Press: Advances in Economics, Business and Management Research, 2019. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 771,
+    "no": 70,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "ANALISIS PENYELENGGARAAN PELAYANAN PUBLIK: SURVEI INDEKS KEPUASAN MASYARAKAT DI PEMDA KABUPATEN JAYAPURA TAHUN 2019",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2019,
+    "cluster1": "Tata Kelola dan Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:UebtZRa9Y70C",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: A Nugroho. Diterbitkan: Proceedings of the Annual International Conference of Business and Public …, 2019. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 772,
+    "no": 71,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "TRANSFORMASI NILAI DAN BUDAYA INOVASI LINTAS SEKTOR DALAM MENGHADAPI GLOBAL MEGATREND: ANALISIS INOVASI SISTEM PERENCANAAN DAERAH BAPPEDA DIY",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2018,
+    "cluster1": "Tata Kelola dan Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:ULOm3_A8WrAC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: AA Nugroho, A Zidafrian, N Sari. Diterbitkan: KNIA, 10, 2018. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 773,
+    "no": 72,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Profesionalisme TNI, Alutsista Indonesia, dan Pertarungan Politik Keamanan Internasional",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2016,
+    "cluster1": "Tata Kelola dan Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:2osOgNQ5qMEC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: AA Nugroho. Diterbitkan: Indonesia Bergerak 2 Mozaik Kebijakan Publik di Indonesia 2016 1, 35, 2016. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 774,
+    "no": 73,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Effect of cutting and watering of Portulaca oleracea L. on weeds control.",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2016,
+    "cluster1": "Tata Kelola dan Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:GnPB-g6toBAC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: Z Abdullatif, HT Sebayang, S Sudiarso, A Nugroho. Diterbitkan: . Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 775,
+    "no": 74,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Analisis Kualitas Pelayanan Aparatur Kepolisian Berdasarkan Model Importance Performance Analysis (IPA) dan Model Kano (Studi Kasus pada Satuan Penyelenggara Administrasi SIM …",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2014,
+    "cluster1": "Tata Kelola dan Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:9yKSN-GCB0IC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: AA Nugroho. Diterbitkan: Universitas Brawijaya, 2014. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 776,
+    "no": 75,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "DINAMIKA GOVERNANCE JURNAL ILMU ADMINISTRASI NEGARA",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2026,
+    "cluster1": "Tata Kelola dan Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:bEWYMUwI8FkC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: LR Suminar, AA Nugroho. Diterbitkan: . Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 777,
+    "no": 76,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Intelektual Kampus, Kekuasaan, dan Produksi Pengetahuan",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2026,
+    "cluster1": "Tata Kelola dan Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:zYLM7Y9cAGgC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: AA Nugroho. Diterbitkan: . Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 778,
+    "no": 1,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Strategi Implementasi Smart City Kota Bandung",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2022,
+    "cluster1": "Tata Kelola & Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:KlAtU1dfN6UC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: AA Wahyudi, YR Widowati, AA Nugroho. Diterbitkan: Jurnal Good Governance, 2022. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 779,
+    "no": 2,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Collaborative governance in Indonesia’s nutritious food policy: A multi-stakeholder implementation model",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2025,
+    "cluster1": "Tata Kelola & Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:hMod-77fHWUC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: AA Nugroho, A Sudrajat, IF Azmi, F Ardiansyah, R Prasetyanti. Diterbitkan: Jurnal Borneo Administrator 21 (2), 203-218, 2025. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 780,
+    "no": 3,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Transportasi publik terintegrasi: Optimalisasi implementasi smart mobility di DKI Jakarta",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2023,
+    "cluster1": "Tata Kelola & Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:mB3voiENLucC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: AM Margaretha, AA Nugroho. Diterbitkan: Journal Of Public Policy and Applied Administration, 47-58, 2023. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 781,
+    "no": 4,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Digital divide: how is Indonesian public service affected",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2024,
+    "cluster1": "Tata Kelola & Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:_Qo2XoVZTnwC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: E Sutrisno, MS Silitonga, RR Yusuf, AA Nugroho. Diterbitkan: JPPI (Jurnal Penelitian Pendidikan Indonesia) 10 (3), 454-463, 2024. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 782,
+    "no": 5,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Evaluasi Kebijakan Pkh (Program Keluarga Harapan) Di Indonesia",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2022,
+    "cluster1": "Tata Kelola & Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:YOwf2qJgpHMC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: AP Anggraeni, AA Nugroho. Diterbitkan: Journal of Public Policy and Applied Administration, 2022. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 783,
+    "no": 6,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Shift kerja dan masa kerja terhadap kelelahan kerja pada pengemudi angkutan batu bara",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2020,
+    "cluster1": "Tata Kelola & Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:2P1L_qKh6hAC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: HA Maulani, S Sukismanto, H Yuningrum, A Nugroho. Diterbitkan: Jurnal Penelitian Dan Pengembangan Kesehatan Masyarakat Indonesia 1 (1), 2020. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 784,
+    "no": 7,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "The role of e-government to improve the implementation of merit system in Indonesian local goverments",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2023,
+    "cluster1": "Tata Kelola & Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:dhFuZR0502QC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: AA Nugroho, NS Rahayu, RR Yusuf. Diterbitkan: KnE Social Sciences, 516–542-516–542, 2023. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 785,
+    "no": 8,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "A systematic literature review: Challenges and strategy of bureaucratic reform in developing countries",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2024,
+    "cluster1": "Tata Kelola & Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:R3hNpaxXUhUC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: AA Nugroho, BS Haryono, F Putera, I Noor. Diterbitkan: Journal of Law and Sustainable Development 12 (2), 40, 2024. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 786,
+    "no": 9,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Narrative policy of bureaucratic reform in Indonesia: Rules of narrative in mass media",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2024,
+    "cluster1": "Tata Kelola & Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:HDshCWvjkbEC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: BS Haryono, AA Nugroho, F Putera, I Noor. Diterbitkan: Journal of Infrastructure, Policy and Development 8 (1), 2024. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 787,
+    "no": 10,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Anti-corruption system 4.0: The adoption of blockchain technology in the public sector",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2023,
+    "cluster1": "Tata Kelola & Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:QIV2ME_5wuYC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: IF Azmi, AA Nugroho. Diterbitkan: Integritas: Jurnal Antikorupsi 9 (1), 93-108, 2023. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 788,
+    "no": 11,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Transformation of Innovation Values and Culture: Innovation Analysis of Regional Planning System in Special Region of Yogyakarta, Indonesia",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2020,
+    "cluster1": "Tata Kelola & Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:WF5omc3nYNoC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: AA Nugroho, NS Rahayu. Diterbitkan: Transformation 11 (4), 680-692, 2020. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 789,
+    "no": 12,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Alleviating Societyâ€™ s Economic Crisis: Narrative Policy on Social Safety Nets Policy Process During Covid-19 Pandemic",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2021,
+    "cluster1": "Tata Kelola & Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:0EnyYjriUFMC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: AA Nugroho, IF Azmi. Diterbitkan: Policy &amp; Governance Review 5 (2), 113-127, 2021. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 790,
+    "no": 13,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "IMPROVING PUBLIC PARTICIPATION IN INNOVATION MANAGEMENT OF VILLAGE-OWNED ENTERPRISE: LESSON LEARNED FROM THE BEST VILLAGE-OWNED ENTERPRISE IN INDONESIA.",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2020,
+    "cluster1": "Tata Kelola & Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:LkGwnXOMwfcC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: A Suryanto, AA Nugroho. Diterbitkan: PalArch&#39;s Journal of Archaeology of Egypt/Egyptology 17 (4), 2020. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 791,
+    "no": 14,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Enhancing civil servant career development: A talent management approach in Indonesia",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2024,
+    "cluster1": "Tata Kelola & Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:YFjsv_pBGBYC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: A Sudrajat, NS Fahrani, AA Nugroho, WA Yohanitas, IF Azmi. Diterbitkan: Journal of Infrastructure, Policy and Development 8 (7), 4832, 2024. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 792,
+    "no": 15,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "ANALISIS PENYELENGGARAAN PELAYANAN PUBLIK: SURVEI INDEKS KEPUASAN MASYARAKAT DI PEMDA KABUPATEN JAYAPURA TAHUN 2019",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2020,
+    "cluster1": "Tata Kelola & Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:hqOjcs7Dif8C",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: A Nugroho, K Sholihati, M Rizki. Diterbitkan: Jurnal Ilmu Administrasi 17 (17/2), 242-254, 2020. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 793,
+    "no": 16,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Desentralisasi fiskal dan kemandirian daerah pemekaran: Studi kasus pada Provinsi Sulawesi Barat",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2025,
+    "cluster1": "Tata Kelola & Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:maZDTaKrznsC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: AA Nugroho, C Candrawati. Diterbitkan: Dialogue: Jurnal Ilmu Administrasi Publik 7 (1), 046-057, 2025. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 794,
+    "no": 17,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Vocational village model: Bridging the gaps towards sustainable rural development",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2024,
+    "cluster1": "Tata Kelola & Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:k_IJM867U9cC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: A Sudrajat, R Prasetyanti, AA Nugroho, NS Iskandar. Diterbitkan: Journal of Infrastructure, Policy and Development 8 (13), 7021, 2024. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 795,
+    "no": 18,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Eksklusi petani pada industri kelapa sawit: Dalih kemitraan pada perkebunan inti-plasma skema kredit koperasi primer anggota",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2024,
+    "cluster1": "Tata Kelola & Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:TQgYirikUcIC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: AA Nugroho, RR Yusuf, NS Rahayu. Diterbitkan: Kemitraan semu dalam ekonomi gig di Indonesia, 153-170, 2024. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 796,
+    "no": 19,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Effect Of Digital Community Towards Democracy Process: Digital Partisipation Analysis In Indonesia",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2020,
+    "cluster1": "Tata Kelola & Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:eQOLeE2rZwMC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: A Nugroho. Diterbitkan: Jurnal Good Governance, 2020. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 797,
+    "no": 20,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Analisis penerapan smart governance dalam mewujudkan smart city di Kota Semarang",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2023,
+    "cluster1": "Tata Kelola & Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:qUcmZB5y_30C",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: CD Damayanthi, AA Nugroho. Diterbitkan: Konferensi Nasional Ilmu Administrasi 7 (1), 77-83, 2023. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 798,
+    "no": 21,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Exclusion of smallholders in the Indonesia palm oil industry",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2022,
+    "cluster1": "Tata Kelola & Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:3fE2CSJIrl8C",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: NS Rahayu, AA Nugroho, RR Yusuf. Diterbitkan: KnE Social Sciences, 1158–1182-1158–1182, 2022. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 799,
+    "no": 22,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "The Development of Innovation Knowledge Management System in Tangerang Regency",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2023,
+    "cluster1": "Tata Kelola & Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:7PzlFSSx8tAC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: W Yohanitas, A Ramadhan, M Pribadi, N Fahrani, R Syah, S Andreani, .... Diterbitkan: Lex localis - Journal of Local Self-Government 21 (23), 637-664, 2023. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 800,
+    "no": 23,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Strategi Pengambilan Keputusan Keuangan Berkelanjutan Dengan Artificial Intelligence For Financial Advisor (AIFA)",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2022,
+    "cluster1": "Tata Kelola & Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:4DMP91E08xMC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: AP Anggraeni, AA Nugroho. Diterbitkan: Konferensi Nasional Ilmu Administrasi 6 (1), 156-162, 2022. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 801,
+    "no": 24,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Implementasi dan Analisis Jaringan Fiber to The Tower dengan Menggunakan Teknologi GPON",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2023,
+    "cluster1": "Tata Kelola & Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:vV6vV6tmYwMC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: AA Nugroho, D Pranindito, E Wahyudi. Diterbitkan: Din. Rekayasa 19 (2), 119, 2023. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 802,
+    "no": 25,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Sistem anti-korupsi 4.0: Adopsi teknologi blockchain di sektor publik",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2023,
+    "cluster1": "Tata Kelola & Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:blknAaTinKkC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: IF Azmi, AA Nugroho. Diterbitkan: Integritas: Jurnal Antikorupsi 9 (1), 93-108, 2023. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 803,
+    "no": 26,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Analisis Potensi dan Ketimpangan Pembangunan Kabupaten/Kota di Provinsi Kepulauan Riau",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2024,
+    "cluster1": "Tata Kelola & Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:iH-uZ7U-co4C",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: C Candrawati, AA Nugroho. Diterbitkan: Good Governance 20 (2), 2024. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 804,
+    "no": 27,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Optimalisasi Pelayanan Melalui Website: Assessment Situs Web Pemerintah Provinsi DKI Jakarta",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2023,
+    "cluster1": "Tata Kelola & Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:hC7cP41nSMkC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: AM Margaretha, AA Nugroho. Diterbitkan: Konferensi Nasional Ilmu Administrasi 7 (1), 36-42, 2023. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 805,
+    "no": 28,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Strategy for Accelerating Regional Development Reached Through Digital Governance",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2023,
+    "cluster1": "Tata Kelola & Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:L8Ckcad2t8MC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: E Sutrisno, N Kurniawati, I Reza, A Nugroho, D Khaerunisa. Diterbitkan: International Journal of Membrane Science and Technology 10 (2), 1200-1210, 2023. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 806,
+    "no": 29,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Empowering women for reducing radicalization in Indonesia",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2023,
+    "cluster1": "Tata Kelola & Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:ZeXyd9-uunAC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: F Safina, AA Nugroho. Diterbitkan: Gender equality: international journal of child and gender studies 9 (2 …, 2023. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 807,
+    "no": 30,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "ADOPSI TEKNOLOGI BLOCKCHAIN DI SEKTOR PUBLIK: PELUANG PEMBENTUKAN SISTEM IDENTITAS DIGITAL NASIONAL DI ERA VUCA",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2023,
+    "cluster1": "Tata Kelola & Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:Wp0gIr-vW9MC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: LR Suminar, AA Nugroho. Diterbitkan: Dinamika Governance: Jurnal Ilmu Administrasi Negara 12 (4), 2023. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 808,
+    "no": 31,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Optimalisasi Layanan Kesehatan Melalui Inovasi Pelayanan Publik Proyek Perubahan Pelatihan Kepemimpinan (Optimizing Health Services Through Public Service Innovation Project …",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2020,
+    "cluster1": "Tata Kelola & Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:ufrVoPGSRksC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: AA Nugroho, E Sutrisno, RR Yusuf. Diterbitkan: Setia Mengabdi: Jurnal Pengabdian kepada Masyarakat 1 (1), 26-38, 2020. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 809,
+    "no": 32,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Menata Pegawai Non-ASN Pasca Kebijakan UU ASN 2023: Studi Pendahuluan tentang Precarity, Job Security, dan Tantangan Pekerjaan Layak di Sektor Publik",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2025,
+    "cluster1": "Tata Kelola & Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:J_g5lzvAfSwC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: AA Nugroho, RA Gati, NS Aurelia. Diterbitkan: Jurnal Pembangunan dan Administrasi Publik, 78-88, 2025. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 810,
+    "no": 33,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Inovasi sebagai Strategi Reformasi Administrasi Pemerintah Daerah : Studi Pemerintah Daerah di Meksiko dan Indonesia",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2023,
+    "cluster1": "Tata Kelola & Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:-f6ydRqryjwC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: RR Yusuf, AA Nugroho. Diterbitkan: Jurnal Good Governance 12 (No. 2 September 2023), 197-210, 2023. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 811,
+    "no": 34,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Peningkatan Sistem Merit Melalui Manajemen Pengembangan Kompetensi Terintegrasi Berbasis Teknologi Informasi di Pemerintah Kabupaten Garut",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2023,
+    "cluster1": "Tata Kelola & Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:9ZlFYXVOiuMC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: RR Yusuf, NS Rahayu, A Nugroho, D Khaerunnisa. Diterbitkan: SWARNA: Jurnal Pengabdian Kepada Masyarakat 2 (4), 426-433, 2023. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 812,
+    "no": 35,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Optimalisasi layanan kesehatan melalui inovasi Pelayanan Publik proyek perubahan pelatihan kepemimpinan. 1 (1), 26–38",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2020,
+    "cluster1": "Tata Kelola & Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:aqlVkmm33-oC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: AA Nugroho, E Sutrisno, RR Yusuf. Diterbitkan: doi. org/10.35912/jasispol. v1i1 163, 2020. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 813,
+    "no": 36,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "STRATEGI MANAJEMEN SUMBER DAYA MANUSIA MENDUKUNG TRANSFORMASI DIGITAL PELAYANAN KESEHATAN DI RSU PENGAYOMAN CIPINANG",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2025,
+    "cluster1": "Tata Kelola & Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:NaGl4SEjCO4C",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: S Wahyutiningrum, AA Nugroho. Diterbitkan: Journal of Contemporary Public Administration 5 (2), 96-113, 2025. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 814,
+    "no": 37,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "The Development of a Village Bureaucratic Reform Model Based on Mutual Cooperation: A Study on the Development of Underdeveloped Villages in East Nusa Tenggara",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2025,
+    "cluster1": "Tata Kelola & Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:JV2RwH3_ST0C",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: E Sutrisno, AA Nugroho, RR Yusuf, AM Margaretha, L Shirayuki. Diterbitkan: KnE Social Sciences 10 (16), 443-461, 2025. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 815,
+    "no": 38,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Blockchain-Based Rural Governance: Analisis Potensi Adopsi Blockchain Untuk Meningkatkan Pembangunan Desa",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2024,
+    "cluster1": "Tata Kelola & Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:r0BpntZqJG4C",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: M Rozikin, AA Nugroho, D Khaerunisa. Diterbitkan: Good Governance 20 (2), 2024. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 816,
+    "no": 39,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Meningkatkan Partisipasi Masyarakat dalam Inovasi Pengelolaan Ekonomi Desa: Lesson Learned dari BUMDes Terbaik Nasional",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2020,
+    "cluster1": "Tata Kelola & Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:M3ejUd6NZC8C",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: AA Nugroho, N Rahayu. Diterbitkan: Prosiding Konferensi Nasional Ilmu Administrasi 4, 193-199, 2020. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 817,
+    "no": 40,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "FOSTERING ACCOUNTING&#39;S LEARNING OUTCOMES THROUGH VIDEO SCRIBE IN VOCATIONAL HIGH SCHOOLS",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2020,
+    "cluster1": "Tata Kelola & Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:RYcK_YlVTxYC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: DE SARI, AA NUGROHO. Diterbitkan: INTERNATIONAL JOURNAL OF INFORMATION AND EDUCATION TECHNOLOGY 10 (3), 196-200, 2020. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 818,
+    "no": 41,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Resiliensi Kebijakan Di Tengah Kekosongan Struktur: Menguji Anomali Teori Edwards Iii Pada Dana Alokasi Khusus Non Fisik Perpustakaan",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2026,
+    "cluster1": "Tata Kelola & Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:rO6llkc54NcC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: WD Prasetyo, AA Nugroho. Diterbitkan: Journal of Tax and Business 7 (2), 823-835, 2026. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 819,
+    "no": 42,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Model Pembiayaan Pengerukan Alur Pelayaran Melalui Kpbu Dengan Availability Payment Berbasis PNBP: Analisis Data 2015-2018",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2026,
+    "cluster1": "Tata Kelola & Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:3s1wT3WcHBgC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: P Sandinugraha, AA Nugroho. Diterbitkan: Journal of Tax and Business 7 (2), 627-641, 2026. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 820,
+    "no": 43,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Tantangan Tata Kelola Informasi Anggaran pada Penginputan Usulan RPD DAK Nonfisik Dana Pelayanan PPA",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2026,
+    "cluster1": "Tata Kelola & Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:ZHo1McVdvXMC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: LFS Lukman, AA Nugroho, D Sahara. Diterbitkan: Journal of Tax and Business 7 (2), 642-652, 2026. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 821,
+    "no": 44,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Persepsi Asn Generasi Z Terhadap Pemanfaatan Inovasi Digital Untuk Peningkatan Pelayanan Publik",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2026,
+    "cluster1": "Tata Kelola & Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:HoB7MX3m0LUC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: D Triastuti, AA Nugroho. Diterbitkan: Journal of Tax and Business 7 (2), 597-609, 2026. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 822,
+    "no": 45,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Designing Digital Governance for International Nuclear Cooperation Using Soft Systems Methodology",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2026,
+    "cluster1": "Tata Kelola & Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:g5m5HwL7SMYC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: D Desiani, AA Nugroho, D Irawan, D Triastuti, N Hasanah. Diterbitkan: Jurnal Publikasi Ilmu Manajemen 5 (3), 29-38, 2026. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 823,
+    "no": 46,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Hidden capital in tourism economy: an ecology of money laundering risk through property in Bali",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2026,
+    "cluster1": "Tata Kelola & Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:M05iB0D1s5AC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: MS Silitonga, KD Solihati, I Vanya, RR Yusuf, AA Nugroho. Diterbitkan: Journal of Money Laundering Control, 1-19, 2026. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 824,
+    "no": 47,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Strategies For Developing Work Resilience For Generation Z In Public Sector Organizations: A Case Study At The Social Security Administering Body For Health (BPJS Kesehatan)",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2026,
+    "cluster1": "Tata Kelola & Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:70eg2SAEIzsC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: R Reza, AA Nugroho. Diterbitkan: Kontigensi: Jurnal Ilmiah Manajemen 14 (1), 388-390, 2026. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 825,
+    "no": 48,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "E-Government Transformation in Central Lombok Regency: Evaluation Based on the CIPP Model",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2025,
+    "cluster1": "Tata Kelola & Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:lSLTfruPkqcC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: AA Nugroho, A Sudrajat, K Solihati, CA Kwon. Diterbitkan: Jurnal Ilmu Administrasi: Media Pengembangan Ilmu dan Praktek Administrasi …, 2025. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 826,
+    "no": 49,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "The Contribution of International Tourism to Indonesia&#39;s Economic Development: A Price, Income Elasticity, and Sustainable Tourism Policy Perspective",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2025,
+    "cluster1": "Tata Kelola & Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:NMxIlDl6LWMC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: AA Nugroho, C Candrawati. Diterbitkan: Journal of Governance 10 (3), 2025. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 827,
+    "no": 50,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Social Innovation as a Step Towards Proper Governance: A Case Study of Community-based Development Planning in Lebakgedong Sub-Distrik Lebak Regency.",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2025,
+    "cluster1": "Tata Kelola & Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:M3NEmzRMIkIC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: A Samudera, F Anggraeni, RK Nisa, AA Nugroho. Diterbitkan: KnE Social Sciences, 428, 2025. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 828,
+    "no": 51,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Beyond Collaboration and Interorganizational Networks: The&quot; Gotong Royong&quot; Model of Bureaucratic Reform in Indonesia.",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2024,
+    "cluster1": "Tata Kelola & Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:SeFeTyx0c_EC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: AA Nugroho, BS Haryono, F Putera, I Noor. Diterbitkan: EAI Computing &amp; Communication in Emerging Regions-CCER, 1, 2024. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 829,
+    "no": 52,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Improving the Local Government Performance: The Role of Digital Innovation and Digital Leadership.",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2024,
+    "cluster1": "Tata Kelola & Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:pqnbT2bcN3wC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: NS Rahayu, AA Nugroho, RR Yusuf, YR Widowati. Diterbitkan: EAI Computing &amp; Communication in Emerging Regions-CCER, 1, 2024. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 830,
+    "no": 53,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "PENGGUNAAN BLOCKCHAIN SEBAGAI UPAYA PENINGKATAN KINERJA ORGANISASI PUBLIK DI ERA REVOLUSI INDUSTRI 4.0",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2023,
+    "cluster1": "Tata Kelola & Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:qxL8FJ1GzNcC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: D Khaerunnisa, AA Wahyudi, AA Nugroho. Diterbitkan: Dinamika Governance: Jurnal Ilmu Administrasi Negara 12 (4), 2023. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 831,
+    "no": 54,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "BUKU AJAR KEBIJAKAN PUBLIK",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2023,
+    "cluster1": "Tata Kelola & Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:BqipwSGYUEgC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: AA Nugroho, A Rahmawati, IF Reza, N Kurniawati, R Prasetyanti. Diterbitkan: Damera Press, 2023. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 832,
+    "no": 55,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Women’s School Community: Social Capital-Based as Gender Mainstreaming Model in Rural Development",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2022,
+    "cluster1": "Tata Kelola & Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:_kc_bZDykSQC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: D Khaerunnisa, AA Nugroho, A Ayunda W., MM Rifali. Diterbitkan: International Journal of Management and Applied Science (IJMAS) 8 (1), 93-97, 2022. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 833,
+    "no": 56,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Analisis Pelayanan Pengaduan Melalui Sistem Cepat Respon Masyarakat (CRM) Di Provinsi DKI Jakarta Analysis of Complaint Services Through the Rapid Community Response System …",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2022,
+    "cluster1": "Tata Kelola & Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:mVmsd5A6BfQC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: YR Widowati, AA Nugroho. Diterbitkan: Konferensi Nasional Ilmu Administrasi 6 (2022), 169, 2022. Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 834,
+    "no": 57,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "DINAMIKA GOVERNANCE JURNAL ILMU ADMINISTRASI NEGARA",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2026,
+    "cluster1": "Tata Kelola & Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:bEWYMUwI8FkC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: LR Suminar, AA Nugroho. Diterbitkan: . Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 835,
+    "no": 58,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Intelektual Kampus, Kekuasaan, dan Produksi Pengetahuan",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2026,
+    "cluster1": "Tata Kelola & Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&pagesize=100&citation_for_view=0h2jYOUAAAAJ:zYLM7Y9cAGgC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: AA Nugroho. Diterbitkan: . Dikutip: 0 kali.",
+    "sitasi": 0
+  },
+  {
+    "id": 836,
+    "no": 1,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Strategi Implementasi Smart City Kota Bandung",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2022,
+    "cluster1": "Tata Kelola & Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&citation_for_view=0h2jYOUAAAAJ:KlAtU1dfN6UC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: AA Wahyudi, YR Widowati, AA Nugroho. Diterbitkan: Jurnal Good Governance, 2022. Dikutip: 67 kali.",
+    "sitasi": 67
+  },
+  {
+    "id": 837,
+    "no": 2,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Collaborative governance in Indonesia’s nutritious food policy: A multi-stakeholder implementation model",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2025,
+    "cluster1": "Tata Kelola & Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&citation_for_view=0h2jYOUAAAAJ:hMod-77fHWUC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: AA Nugroho, A Sudrajat, IF Azmi, F Ardiansyah, R Prasetyanti. Diterbitkan: Jurnal Borneo Administrator 21 (2), 203-218, 2025. Dikutip: 39 kali.",
+    "sitasi": 39
+  },
+  {
+    "id": 838,
+    "no": 3,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Transportasi publik terintegrasi: Optimalisasi implementasi smart mobility di DKI Jakarta",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2023,
+    "cluster1": "Tata Kelola & Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&citation_for_view=0h2jYOUAAAAJ:mB3voiENLucC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: AM Margaretha, AA Nugroho. Diterbitkan: Journal Of Public Policy and Applied Administration, 47-58, 2023. Dikutip: 37 kali.",
+    "sitasi": 37
+  },
+  {
+    "id": 839,
+    "no": 4,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Digital divide: how is Indonesian public service affected",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2024,
+    "cluster1": "Tata Kelola & Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&citation_for_view=0h2jYOUAAAAJ:_Qo2XoVZTnwC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: E Sutrisno, MS Silitonga, RR Yusuf, AA Nugroho. Diterbitkan: JPPI (Jurnal Penelitian Pendidikan Indonesia) 10 (3), 454-463, 2024. Dikutip: 35 kali.",
+    "sitasi": 35
+  },
+  {
+    "id": 840,
+    "no": 5,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Evaluasi Kebijakan Pkh (Program Keluarga Harapan) Di Indonesia",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2022,
+    "cluster1": "Tata Kelola & Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&citation_for_view=0h2jYOUAAAAJ:YOwf2qJgpHMC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: AP Anggraeni, AA Nugroho. Diterbitkan: Journal of Public Policy and Applied Administration, 2022. Dikutip: 26 kali.",
+    "sitasi": 26
+  },
+  {
+    "id": 841,
+    "no": 6,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Shift kerja dan masa kerja terhadap kelelahan kerja pada pengemudi angkutan batu bara",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2020,
+    "cluster1": "Tata Kelola & Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&citation_for_view=0h2jYOUAAAAJ:2P1L_qKh6hAC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: HA Maulani, S Sukismanto, H Yuningrum, A Nugroho. Diterbitkan: Jurnal Penelitian Dan Pengembangan Kesehatan Masyarakat Indonesia 1 (1), 2020. Dikutip: 22 kali.",
+    "sitasi": 22
+  },
+  {
+    "id": 842,
+    "no": 7,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "The role of e-government to improve the implementation of merit system in Indonesian local goverments",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2023,
+    "cluster1": "Tata Kelola & Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&citation_for_view=0h2jYOUAAAAJ:dhFuZR0502QC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: AA Nugroho, NS Rahayu, RR Yusuf. Diterbitkan: KnE Social Sciences, 516–542-516–542, 2023. Dikutip: 19 kali.",
+    "sitasi": 19
+  },
+  {
+    "id": 843,
+    "no": 8,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "A systematic literature review: Challenges and strategy of bureaucratic reform in developing countries",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2024,
+    "cluster1": "Tata Kelola & Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&citation_for_view=0h2jYOUAAAAJ:R3hNpaxXUhUC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: AA Nugroho, BS Haryono, F Putera, I Noor. Diterbitkan: Journal of Law and Sustainable Development 12 (2), 40, 2024. Dikutip: 17 kali.",
+    "sitasi": 17
+  },
+  {
+    "id": 844,
+    "no": 9,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Narrative policy of bureaucratic reform in Indonesia: Rules of narrative in mass media",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2024,
+    "cluster1": "Tata Kelola & Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&citation_for_view=0h2jYOUAAAAJ:HDshCWvjkbEC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: BS Haryono, AA Nugroho, F Putera, I Noor. Diterbitkan: Journal of Infrastructure, Policy and Development 8 (1), 2024. Dikutip: 13 kali.",
+    "sitasi": 13
+  },
+  {
+    "id": 845,
+    "no": 10,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Anti-corruption system 4.0: The adoption of blockchain technology in the public sector",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2023,
+    "cluster1": "Tata Kelola & Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&citation_for_view=0h2jYOUAAAAJ:QIV2ME_5wuYC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: IF Azmi, AA Nugroho. Diterbitkan: Integritas: Jurnal Antikorupsi 9 (1), 93-108, 2023. Dikutip: 13 kali.",
+    "sitasi": 13
+  },
+  {
+    "id": 846,
+    "no": 11,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Transformation of Innovation Values and Culture: Innovation Analysis of Regional Planning System in Special Region of Yogyakarta, Indonesia",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2020,
+    "cluster1": "Tata Kelola & Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&citation_for_view=0h2jYOUAAAAJ:WF5omc3nYNoC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: AA Nugroho, NS Rahayu. Diterbitkan: Transformation 11 (4), 680-692, 2020. Dikutip: 13 kali.",
+    "sitasi": 13
+  },
+  {
+    "id": 847,
+    "no": 12,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Alleviating Societyâ€™ s Economic Crisis: Narrative Policy on Social Safety Nets Policy Process During Covid-19 Pandemic",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2021,
+    "cluster1": "Tata Kelola & Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&citation_for_view=0h2jYOUAAAAJ:0EnyYjriUFMC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: AA Nugroho, IF Azmi. Diterbitkan: Policy &amp; Governance Review 5 (2), 113-127, 2021. Dikutip: 12 kali.",
+    "sitasi": 12
+  },
+  {
+    "id": 848,
+    "no": 13,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "IMPROVING PUBLIC PARTICIPATION IN INNOVATION MANAGEMENT OF VILLAGE-OWNED ENTERPRISE: LESSON LEARNED FROM THE BEST VILLAGE-OWNED ENTERPRISE IN INDONESIA.",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2020,
+    "cluster1": "Tata Kelola & Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&citation_for_view=0h2jYOUAAAAJ:LkGwnXOMwfcC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: A Suryanto, AA Nugroho. Diterbitkan: PalArch&#39;s Journal of Archaeology of Egypt/Egyptology 17 (4), 2020. Dikutip: 12 kali.",
+    "sitasi": 12
+  },
+  {
+    "id": 849,
+    "no": 14,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Enhancing civil servant career development: A talent management approach in Indonesia",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2024,
+    "cluster1": "Tata Kelola & Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&citation_for_view=0h2jYOUAAAAJ:YFjsv_pBGBYC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: A Sudrajat, NS Fahrani, AA Nugroho, WA Yohanitas, IF Azmi. Diterbitkan: Journal of Infrastructure, Policy and Development 8 (7), 4832, 2024. Dikutip: 11 kali.",
+    "sitasi": 11
+  },
+  {
+    "id": 850,
+    "no": 15,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "ANALISIS PENYELENGGARAAN PELAYANAN PUBLIK: SURVEI INDEKS KEPUASAN MASYARAKAT DI PEMDA KABUPATEN JAYAPURA TAHUN 2019",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2020,
+    "cluster1": "Tata Kelola & Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&citation_for_view=0h2jYOUAAAAJ:hqOjcs7Dif8C",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: A Nugroho, K Sholihati, M Rizki. Diterbitkan: Jurnal Ilmu Administrasi 17 (17/2), 242-254, 2020. Dikutip: 10 kali.",
+    "sitasi": 10
+  },
+  {
+    "id": 851,
+    "no": 16,
+    "unit": "STIA JKT",
+    "sourceSheet": "Google Scholar (Alih Aji Nugroho)",
+    "judul": "Desentralisasi fiskal dan kemandirian daerah pemekaran: Studi kasus pada Provinsi Sulawesi Barat",
+    "jenis": "Jurnal/Penelitian Dosen",
+    "jadwalPublikasi": "",
+    "tahun": 2025,
+    "cluster1": "Tata Kelola & Manajemen ASN",
+    "cluster2": "",
+    "jurnal": "https://scholar.google.co.id/citations?view_op=view_citation&hl=id&user=0h2jYOUAAAAJ&citation_for_view=0h2jYOUAAAAJ:maZDTaKrznsC",
+    "mediaOnline": "",
+    "websiteLan": "",
+    "websiteUnit": "",
+    "instagramLan": "",
+    "instagramUnit": "",
+    "youtubeLan": "",
+    "youtubeUnit": "",
+    "mediaTelevisi": "",
+    "catatan": "Penulis: AA Nugroho, C Candrawati. Diterbitkan: Dialogue: Jurnal Ilmu Administrasi Publik 7 (1), 046-057, 2025. Dikutip: 9 kali.",
+    "sitasi": 9
   }
 ];
