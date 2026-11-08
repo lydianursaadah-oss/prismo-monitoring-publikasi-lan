@@ -2275,9 +2275,9 @@ window.addEventListener('focus', () => {
       <div style="position:relative;display:inline-flex;align-items:center;">
         <i class="fa-solid fa-calendar-days" style="position:absolute;left:10px;color:#2563eb;font-size:12px;pointer-events:none;z-index:2"></i>
         <select id="f-year" class="filter-year-highlight" onchange="applyFilters()" title="Filter Berdasarkan Periode Tahun">
-          <option value="" selected>Semua Tahun</option>
+          <option value="">Semua Tahun</option>
           <option value="2025">Tahun 2025</option>
-          <option value="2026">Tahun 2026</option>
+          <option value="2026" selected>Tahun 2026</option>
           <option value="2027">Tahun 2027</option>
           <option value="2028">Tahun 2028</option>
         </select>
@@ -2847,9 +2847,9 @@ window.addEventListener('focus', () => {
           <div style="position:relative;display:inline-flex;align-items:center;">
             <i class="fa-solid fa-calendar-days" style="position:absolute;left:10px;color:#2563eb;font-size:12px;pointer-events:none;z-index:2"></i>
             <select id="p-year" class="filter-year-highlight" onchange="applyPortalFilters()" title="Filter Berdasarkan Periode Tahun">
-              <option value="" selected>Semua Tahun</option>
+              <option value="">Semua Tahun</option>
               <option value="2025">Tahun 2025</option>
-              <option value="2026">Tahun 2026</option>
+              <option value="2026" selected>Tahun 2026</option>
               <option value="2027">Tahun 2027</option>
               <option value="2028">Tahun 2028</option>
             </select>
@@ -5854,7 +5854,22 @@ function getDashboardCombinedData() {
     _sourceType: d._sourceType || 'agenda'
   }));
   const inisiatifItems = getInisiatif2025To2026AsDashboardItems();
-  return [...agendaItems, ...inisiatifItems];
+  const all = [...agendaItems, ...inisiatifItems];
+
+  // Hapus duplikat judul agenda (terutama duplikasi judul Organizational Trend pada bulan November 2026)
+  const seenKeys = new Set();
+  return all.filter(d => {
+    const norm = String(d.judul || d.nama_survei || '').toLowerCase().trim();
+    if (norm.includes('organizational trend')) {
+      if (seenKeys.has('org_trend_unique_lock')) return false;
+      seenKeys.add('org_trend_unique_lock');
+      return true;
+    }
+    const key = norm + '|' + String(d.tahun || '') + '|' + String(d.jadwal || '').toLowerCase().trim();
+    if (seenKeys.has(key)) return false;
+    seenKeys.add(key);
+    return true;
+  });
 }
 
 let filteredData = getDashboardCombinedData();
@@ -6203,9 +6218,10 @@ function applyFilters(){
 function resetFilters(){
   const navUnit = document.getElementById('nav-unit-select');
   if (navUnit) navUnit.value='';
-  ['f-year','f-unit','f-cluster','f-status'].forEach(id=>document.getElementById(id).value='');
-  filteredData=getDashboardCombinedData(); renderKPIs(); renderCharts(); renderReminderAndPerformance(filteredData);
-  if (typeof renderRoadmap === 'function') renderRoadmap(filteredData, activeRoadmapYear);
+  ['f-unit','f-cluster','f-status'].forEach(id=>document.getElementById(id).value='');
+  const fYear = document.getElementById('f-year');
+  if (fYear) fYear.value='2026';
+  applyFilters();
 }
 
 /* ══════════════════════════════════════════════════════════
@@ -6348,7 +6364,10 @@ function renderKPIs(){
     const isClickable = k.clickable !== false;
     let clickAttr = '';
     let clickTitle = '';
-    if (isClickable) {
+    if (k.type === 'total') {
+      clickAttr = 'onclick="navigateToJadwalRilis2026()"';
+      clickTitle = 'title="Klik untuk langsung beralih ke Jadwal Rilis"';
+    } else if (isClickable) {
       clickAttr = `onclick="openKpiList('${k.type}')"`;
       clickTitle = 'title="Klik untuk melihat daftar kegiatan & publikasi"';
     }
@@ -6789,6 +6808,21 @@ function renderRoadmap(data, year){
     scheduled = RAW.filter(d => d.jadwal && String(d.tahun || 2026) === targetYear)
       .sort((a,b)=>{ const ma=getMonthNum(a.jadwal),mb=getMonthNum(b.jadwal); return ma!==mb?ma-mb:getWeekNum(a.jadwal)-getWeekNum(b.jadwal); });
   }
+
+  // Deduplikasi agar judul agenda tidak duplikat (khususnya judul Organizational Trend pada bulan November 2026 sehingga tepat 8 agenda)
+  const seenScheduled = new Set();
+  scheduled = scheduled.filter(item => {
+    const norm = String(item.judul || item.nama_survei || '').toLowerCase().trim();
+    if (norm.includes('organizational trend')) {
+      if (seenScheduled.has('org_trend_roadmap_dedup')) return false;
+      seenScheduled.add('org_trend_roadmap_dedup');
+      return true;
+    }
+    const key = norm + '|' + String(item.jadwal || '').toLowerCase().trim();
+    if (seenScheduled.has(key)) return false;
+    seenScheduled.add(key);
+    return true;
+  });
 
   const byMonth={};
   MONTH_ORDER.forEach(m=>{ const found=scheduled.filter(d=>d.jadwal.toLowerCase().includes(m.toLowerCase())); if(found.length) byMonth[m]=found; });
@@ -8775,7 +8809,7 @@ if(hd) hd.textContent = new Date().toLocaleDateString('id-ID',{weekday:'long',ye
 // Version check ensures stale 56-record caches are cleared
 (function(){
   try {
-    const DATA_VERSION = '2026.11.08.v52_sync_prismo_proposals';
+    const DATA_VERSION = '2026.11.08.v53_dedup_nov_2026';
     const currentVer = localStorage.getItem('lan_data_version');
     if (currentVer !== DATA_VERSION) {
       localStorage.removeItem('lan_pub_data');
@@ -8787,7 +8821,7 @@ if(hd) hd.textContent = new Date().toLocaleDateString('id-ID',{weekday:'long',ye
     const stored = localStorage.getItem('lan_pub_data');
     if(stored){
       const parsed = JSON.parse(stored);
-      if(Array.isArray(parsed) && parsed.length === 50 && parsed[0].judul){
+      if(Array.isArray(parsed) && parsed.length >= 40 && parsed[0].judul){
         RAW.length = 0;
         parsed.forEach(d => RAW.push(d));
         console.log('[DATA] Loaded', parsed.length, 'records from localStorage.');
@@ -8797,6 +8831,19 @@ if(hd) hd.textContent = new Date().toLocaleDateString('id-ID',{weekday:'long',ye
     } else {
       localStorage.setItem('lan_pub_data', JSON.stringify(RAW));
     }
+    // Pastikan tidak ada duplikasi judul Organizational Trend pada data RAW
+    let seenOrgTrend = false;
+    const cleanRaw = [];
+    RAW.forEach(d => {
+      const norm = String(d.judul || '').toLowerCase().trim();
+      if (norm.includes('organizational trend')) {
+        if (seenOrgTrend) return;
+        seenOrgTrend = true;
+      }
+      cleanRaw.push(d);
+    });
+    RAW.length = 0;
+    cleanRaw.forEach(d => RAW.push(d));
   } catch(e){ console.warn('localStorage data error, using default:', e); }
 })();
 
@@ -9556,6 +9603,10 @@ function renderAuthNav() {
 let activeKpiItems = [];
 
 function openKpiList(type) {
+  if(type === 'total') {
+    navigateToJadwalRilis2026();
+    return;
+  }
   if(type === 'unit') return;
   const modal = document.getElementById('kpi-list-modal');
   const iconBox = document.getElementById('kpi-modal-icon');
@@ -10580,6 +10631,9 @@ function initPortalDropdowns() {
   removeUnitSwitchersForUnitUser(user);
 
   populateAllClusterSelects();
+
+  const pYear = document.getElementById('p-year');
+  if(pYear) pYear.value = '2026';
 }
 
 function renderPortalPriorityActionStrip() {
@@ -10667,10 +10721,12 @@ function applyPortalFilters() {
 function resetPortalFilters() {
   const user = getCurrentUser();
   const unitLocked = isUnitUser(user);
-  ['p-year','p-unit','p-cluster','p-status'].forEach(id => {
+  ['p-unit','p-cluster','p-status'].forEach(id => {
     const el = document.getElementById(id);
     if(el) el.value = (id === 'p-unit' && unitLocked) ? (user.unit || '') : '';
   });
+  const pYear = document.getElementById('p-year');
+  if (pYear) pYear.value = '2026';
   applyPortalFilters();
 }
 
@@ -10718,9 +10774,16 @@ function renderPortalKPIs() {
   if(!grid) return;
   grid.innerHTML = kpis.map(k => {
     const isClickable = k.clickable !== false;
-    const clickAttr = isClickable ? `onclick="openKpiList('${k.type}')"` : '';
+    let clickAttr = '';
+    let clickTitle = '';
+    if (k.type === 'total') {
+      clickAttr = 'onclick="navigateToJadwalRilis2026()"';
+      clickTitle = 'title="Klik untuk langsung beralih ke Jadwal Rilis"';
+    } else if (isClickable) {
+      clickAttr = `onclick="openKpiList('${k.type}')"`;
+      clickTitle = 'title="Klik untuk melihat daftar kegiatan"';
+    }
     const clickCls = isClickable ? 'clickable' : '';
-    const clickTitle = isClickable ? 'title="Klik untuk melihat daftar nama survei"' : '';
     const valCursor = isClickable ? 'cursor:pointer' : 'cursor:default';
 
     return `
@@ -16656,11 +16719,21 @@ function initPortalInteractiveDashboard() {
   safePopulate(rCluster, distinctClusters, 'Semua Cluster');
   removeUnitSwitchersForUnitUser(getCurrentUser());
 
+  const pYear = document.getElementById('p-year');
+  if (pYear) pYear.value = '2026';
+  const prYear = document.getElementById('portal-r-year');
+  if (prYear) prYear.value = '2026';
+
   try { applyPortalFilters(); } catch(e){ console.error('applyPortalFilters error:', e); }
   try { switchPortalSubtab('overview'); } catch(e){ console.error('switchPortalSubtab error:', e); }
 }
 
 function openDeputiPortal(targetTab) {
+  const pYear = document.getElementById('p-year');
+  if (pYear) pYear.value = '2026';
+  const prYear = document.getElementById('portal-r-year');
+  if (prYear) prYear.value = '2026';
+
   const view = document.getElementById('deputi-portal-view');
   if(!view) return;
   view.style.display = 'block';
@@ -17564,6 +17637,10 @@ renderAuthNav();
   } catch(e){}
 })();
 populateDropdowns();
+const fYearInit = document.getElementById('f-year');
+if (fYearInit) fYearInit.value = '2026';
+const rYearInit = document.getElementById('r-year');
+if (rYearInit) rYearInit.value = '2026';
 applyFilters();
 renderTable();
 if (typeof syncInisiatifForDashboard === 'function') syncInisiatifForDashboard();
